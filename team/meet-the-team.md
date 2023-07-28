@@ -38,7 +38,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 **GitBook tip:** Your bio could be your background, your research interest or your hobbies.
 {% endhint %}
 
-## Longchao Da
+## [Longchao Da](https://longchaoda.github.io/)
 
 👋 Ph.D student— 💌 ld49@njit.edu — Currently 🇺🇸 Newark (GMT-4)
 
