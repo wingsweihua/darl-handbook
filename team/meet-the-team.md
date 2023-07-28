@@ -56,6 +56,10 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 <figure><img src="../.gitbook/assets/a.png" alt="" width="188"><figcaption></figcaption></figure>
 
+### Bio
+
+I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my bachelor's degree in computer science from Xi’an Jiaotong University in 2020. I’m currently doing my Ph.D. study, (co-)supervised by Prof. Hua Wei. My research focuses on data mining (Explainable AI), deep learning (LLM), and natural language processing (code analysis).
+
 ## Tiejin Chen
 
 
