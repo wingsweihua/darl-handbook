@@ -1,0 +1,65 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
+coverY: 0
+---
+
+# 👋 Meet the Team!
+
+{% hint style="info" %}
+**GitBook tip:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
+{% endhint %}
+
+## [Hua Wei](https://www.public.asu.edu/\~hwei27/)
+
+👋 PI —  :rainbow: hua.wei@asu.edu — 🇺🇸 Phoenix (GMT-7)
+
+![](https://www.public.asu.edu/\~hwei27/images/header-2.jpg)
+
+### Bio
+
+Hua Wei (him/his) is an assistant professor at [the School of Computing and Augmented Intelligence (SCAI)](https://scai.engineering.asu.edu/) in [Arizona State University (ASU)](https://www.asu.edu/). He also affiliates with the Lawrence Berkeley National Laboratory.
+
+Before joining ASU, he worked as an Assistant Professor at the New Jersey Institute of Technology and as a Staff Researcher at Tencent AI Lab. He got his Ph.D. from Pennsylvania State University in 2020 under the supervision of Dr. [Zhenhui (Jessie) Li](https://faculty.ist.psu.edu/jessieli/Site/index.html). Before that, he received his master's and bachelor's degrees from Beihang University (BUAA) majoring in Computer Science, working with Prof. [Jinpeng Huai](http://ev.buaa.edu.cn/info/1056/1346.htm) and Dr. [Tianyu Wo](https://dblp.uni-trier.de/pers/hd/w/Wo:Tianyu).
+
+{% hint style="info" %}
+**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+{% endhint %}
+
+## [Hao Mei](https://derekmei233.github.io/)
+
+👋 Ph.D. student — 💌hm467@njit.edu — Currently 🇺🇸 Newark (GMT-4)
+
+![](https://derekmei233.github.io/authors/admin/%20avatar\_hu387368abf67028706822ce7ec8fd4073\_328760\_270x270\_fill\_q75\_lanczos\_center.JPG)
+
+### Bio
+
+{% hint style="info" %}
+**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+{% endhint %}
+
+## Longchao Da
+
+👋 Ph.D student— 💌 ld49@njit.edu — Currently 🇺🇸 Newark (GMT-4)
+
+![](https://static.wixstatic.com/media/7b9c5f\_74ef5a40edea4c6abccc0a6c7e0a2bfe\~mv2.jpeg/v1/crop/x\_0,y\_207,w\_1240,h\_1240/fill/w\_960,h\_960,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/better.jpeg)
+
+### Bio
+
+{% hint style="info" %}
+**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+{% endhint %}
+
+## Jiaxing Zhang
+
+## Tiejin Chen
+
+
+
+
+
+
+
+### Alumni
+
+\[list of alumni here; this is kept updated on [Hua's website](https://www.public.asu.edu/\~hwei27/people.html)]
