@@ -35,7 +35,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 ### Bio
 
 {% hint style="info" %}
-**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+**GitBook tip:** Your bio could be your background, your research interest or your hobbies.
 {% endhint %}
 
 ## Longchao Da
@@ -47,10 +47,14 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 ### Bio
 
 {% hint style="info" %}
-**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+**GitBook tip:** Your bio could be your background, your research interest or your hobbies.
 {% endhint %}
 
 ## Jiaxing Zhang
+
+👋 Ph.D. student — 💌jz48@njit.edu — Currently 🇺🇸 Newark (GMT-4)
+
+<figure><img src="../.gitbook/assets/a.png" alt="" width="188"><figcaption></figcaption></figure>
 
 ## Tiejin Chen
 
