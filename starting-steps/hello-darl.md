@@ -8,11 +8,11 @@ coverY: 0
 
 If you are new here, this is the very first steps you need to do:
 
-* [ ] Ensuring that both you and your labmates have familiarized yourselves with our lab policies is crucial. To establish this shared understanding, please **post the following message to #darllab-status on Trello after reviewing the** [**Lab Policies**](broken-reference) **section**. If you have any queries about the policies, feel free to ask before making the post.
+* [ ] Ensuring that both you and your labmates have familiarized yourselves with our lab policies is crucial. ~~To establish this shared understanding, please **post the following message to #darllab-status on Trello after reviewing the**~~ [~~**Lab Policies**~~](broken-reference) ~~**section**~~. If you have any queries about the policies, feel free to ask before making the post.
   * > I have read and understand all the Lab Policies. I agree to abide by them at all times while working in or collaborating with the DaRL Lab.&#x20;
 * [ ] Check whether you have access to the following channels and resources for[ project management](../policies/project-management.md). We use Email and Slack for communication, Google Drive for archiving, and sometimes (rarely) phone calls for emergencies. **You should ask Hua for their links when you join the group**.
   * [ ] Email for official communications and letters
-  * [ ] Trello Dashboard for project manegement updates
+  * [ ] ~~Trello Dashboard for project manegement updates~~
   * [ ] Slack for research sharing and notices
   * [ ] Google Drive:
     * [ ] Shared folder for paper sharing and reviewing
