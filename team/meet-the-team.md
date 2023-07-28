@@ -23,7 +23,7 @@ Hua Wei (him/his) is an assistant professor at [the School of Computing and Augm
 Before joining ASU, he worked as an Assistant Professor at the New Jersey Institute of Technology and as a Staff Researcher at Tencent AI Lab. He got his Ph.D. from Pennsylvania State University in 2020 under the supervision of Dr. [Zhenhui (Jessie) Li](https://faculty.ist.psu.edu/jessieli/Site/index.html). Before that, he received his master's and bachelor's degrees from Beihang University (BUAA) majoring in Computer Science, working with Prof. [Jinpeng Huai](http://ev.buaa.edu.cn/info/1056/1346.htm) and Dr. [Tianyu Wo](https://dblp.uni-trier.de/pers/hd/w/Wo:Tianyu).
 
 {% hint style="info" %}
-**GitBook tip:** Encourage employees to write a succinct bio that can help new hires learn about them and how they like to work.
+**GitBook tip:** Your bio could be your background, your research interest or your hobbies.
 {% endhint %}
 
 ## [Hao Mei](https://derekmei233.github.io/)
@@ -34,9 +34,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 ### Bio
 
-{% hint style="info" %}
-**GitBook tip:** Your bio could be your background, your research interest or your hobbies.
-{% endhint %}
+I am a Ph.D. student at Arizona State University. Previously, I completed my master's degree in Electrical & Computer Engineering at the University of California, San Diego. Currently, I am conducting research in the field of Reinforcement Learning and data mining under the mentorship of Prof. Hua Wei. Beyond academics, I find joy in camping and swimming during my leisure time.
 
 ## [Longchao Da](https://longchaoda.github.io/)
 
