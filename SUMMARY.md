@@ -41,6 +41,7 @@
   * [Writing Tips for Top Conference Papers (Part 3): Rebuttal](resources/paper-tips/writing-tips-for-top-conference-papers-part-3-rebuttal.md)
   * [Latex Writing: Something to know](resources/paper-tips/latex-writing-something-to-know/README.md)
     * [Latex fonts](resources/paper-tips/latex-writing-something-to-know/latex-fonts.md)
+    * [Latex de facto](resources/paper-tips/latex-writing-something-to-know/latex-de-facto.md)
     * [Predefined Latex commands](resources/paper-tips/latex-writing-something-to-know/predefined-latex-commands.md)
   * [Presentation at Conference](resources/paper-tips/presentation-at-conference.md)
   * [Drafting Posters](resources/paper-tips/drafting-posters.md)

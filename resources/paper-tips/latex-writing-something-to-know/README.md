@@ -29,14 +29,3 @@ Something that speeds up your writing:
       `\newcommand{\ours}{\datasetFont{MixupExplainer}\xspace}`
 * [ ] Latex Debug tip: If you run into an error in Latex, sometimes it's hard to locate directly what causes the error - Just delete part of your latex to narrow down the candidate location (but remember to put it in a copy).
 
-
-
-
-
-Some small things you might neglect
-
-* [ ] All parentheses/literature citations/cross-references should have a space before them, created using the "\~" symbol in latex. (所有的括号/文献引用/图表交叉引用前面都要有空格，在Latex里符号生成空格)
-* [ ] The usage of quotation marks should be combined with \` (located to the left of the number 1 on the keyboard, shared with the tilde \~) and ' (apostrophe, located to the right of the letter L on the keyboard, shared with the double quotation marks "). Latex 中的引号使用要结合\`（键盘数字1左边的键盘符号，和～共用）和‘（单引号，键盘字母L右侧两个，和双引号“共用）
-* [ ] Remember, in formal writing, "can't" cannot be abbreviated; it should be written as "cannot" without a space between "can" and "not".  (Can't不能缩写，要写成cannot)
-* [ ] Pictures and tables are the most critical components of an article and often the first things people look at. Review all tables, images, and their corresponding captions to ensure readers can understand the conclusions by looking at them alone. Suggest including the conclusions in the titles of experimental results. (图片和表格是文章最重要的部分，是很多人第一眼先看的东西。检查所有的表格、图片和对应标题，是不是可以使读者单看图片、表格和标题就可以看到结论。建议实验结果的标题里写上结论)
-
