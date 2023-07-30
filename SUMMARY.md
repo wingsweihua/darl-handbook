@@ -32,7 +32,6 @@
 
 * [⌚ Recurring activities](resources/recurring-activities.md)
 * [📚 Readings](resources/readings.md)
-* [💡 The Scientific Workflow](resources/the-scientific-workflow.md)
 * [🖌 Paper Tips](resources/paper-tips/README.md)
   * [Writing a Short Research Proposal as a Student](resources/paper-tips/writing-a-short-research-proposal-as-a-student.md)
   * [How to read paper](resources/paper-tips/how-to-read-paper.md)
@@ -46,6 +45,7 @@
   * [Presentation at Conference](resources/paper-tips/presentation-at-conference.md)
   * [Drafting Posters](resources/paper-tips/drafting-posters.md)
 * [🧰 Things you may need](resources/things-you-may-need.md)
+* [💡 The Scientific Workflow](resources/the-scientific-workflow.md)
 
 ## References
 
