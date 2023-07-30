@@ -22,7 +22,7 @@ If you are new here, this is the very first steps you need to do:
 * [ ] Once you have something indexed or published, create and maintain a **Google scholar page**. You can link to your co-authors accounts and follow other accounts.
 * [ ] Maintain an up-to-date CV on your primary, personal machine but ensure that a current copy is also stored in the CV Workshop folder in the lab Google Drive, so that it can be included on our website.
 * [ ] Read the[ required readings](../resources/readings.md) in time
-* [ ] Look over the list of ongoing projects on the Trello board of `darl-status`&#x20;
+* [ ] L~~ook over the list of ongoing projects on the Trello board of `darl-status`~~&#x20;
 
 ### OTHER THINGS TO CONSIDER
 
