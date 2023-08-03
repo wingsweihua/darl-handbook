@@ -27,6 +27,7 @@
 * [🥸 Mentorship](policies/mentorship.md)
 * [📑 Paper Writing](policies/paper-writing.md)
 * [🧹 Paper Maintainance](policies/paper-maintainance.md)
+* [👔 Attending Conferences](policies/attending-conferences.md)
 
 ## Resources
 
