@@ -32,6 +32,7 @@
 ## Resources
 
 * [⌚ Recurring activities](resources/recurring-activities.md)
+* [Computing Resources](resources/computing-resources.md)
 * [📚 Readings](resources/readings.md)
 * [🖌 Paper Tips](resources/paper-tips/README.md)
   * [Writing a Short Research Proposal as a Student](resources/paper-tips/writing-a-short-research-proposal-as-a-student.md)
