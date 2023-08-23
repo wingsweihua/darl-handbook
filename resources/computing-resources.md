@@ -2,7 +2,9 @@
 
 
 
-University Research Computing Cluster - Agave: [https://asurc.atlassian.net/wiki/spaces/RC/overview?homepageId=45711712](https://asurc.atlassian.net/wiki/spaces/RC/overview?homepageId=45711712)
+University Research Computing Clusters - Agave and SOL:&#x20;
+
+[https://asurc.atlassian.net/wiki/spaces/RC/overview](https://asurc.atlassian.net/wiki/spaces/RC/overview)
 
 
 
