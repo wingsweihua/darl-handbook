@@ -35,6 +35,7 @@
 * [🖥 Computing Resources](resources/computing-resources.md)
 * [📚 Readings](resources/readings.md)
 * [🖌 Paper Tips](resources/paper-tips/README.md)
+  * [5 Questions for Introduction (or any research)](resources/paper-tips/5-questions-for-introduction-or-any-research.md)
   * [Writing a Short Research Proposal as a Student](resources/paper-tips/writing-a-short-research-proposal-as-a-student.md)
   * [How to read paper](resources/paper-tips/how-to-read-paper.md)
   * [Writing Tips for Top Conference Papers Series on Zhihu](resources/paper-tips/writing-tips-for-top-conference-papers-series-on-zhihu/README.md)
