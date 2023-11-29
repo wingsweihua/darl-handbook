@@ -49,6 +49,7 @@
     * [Predefined Latex commands](resources/paper-tips/latex-writing-something-to-know/predefined-latex-commands.md)
   * [Presentation at Conference](resources/paper-tips/presentation-at-conference.md)
   * [Drafting Posters](resources/paper-tips/drafting-posters.md)
+  * [See Your Research Soar with Social Media](resources/paper-tips/see-your-research-soar-with-social-media.md)
 * [🧰 Things you may need](resources/things-you-may-need.md)
 * [💡 The Scientific Workflow](resources/the-scientific-workflow.md)
 
