@@ -17,6 +17,7 @@ If you are new here, this is the very first steps you need to do:
   * [ ] Google Drive:
     * [ ] Shared folder for paper sharing and reviewing
     * [ ] A Personal folder for personal updates
+  * [ ] Building access: Submit your request [here](https://ets.engineering.asu.edu/keyless-door-entry-system-isaac/).
 * [ ] Set up your calendars on [your phone](https://support.apple.com/guide/iphone/use-multiple-calendars-iph3d1110d4/ios) or Outlook, mark all the next three meetings on your calendar, and set up reminders for those meetings.
 * [ ] Have a [well-structured personal website](https://academicpages.github.io/) and ask Hua to link you on his website.&#x20;
 * [ ] Once you have something indexed or published, create and maintain a **Google scholar page**. You can link to your co-authors accounts and follow other accounts.
