@@ -22,7 +22,7 @@
 
 * [🌴 Code of conduct](policies/code-of-conduct.md)
 * [📞 Communication](policies/communication.md)
-* [🛠 Project management](policies/project-management.md)
+* [🛠️ Project management](policies/project-management.md)
 * [🏠 Day-to-day expectations](policies/day-to-day-expectations.md)
 * [🥸 Mentorship](policies/mentorship.md)
 * [📑 Paper Writing](policies/paper-writing.md)
@@ -32,9 +32,9 @@
 ## Resources
 
 * [⌚ Recurring activities](resources/recurring-activities.md)
-* [🖥 Computing Resources](resources/computing-resources.md)
+* [🖥️ Computing Resources](resources/computing-resources.md)
 * [📚 Readings](resources/readings.md)
-* [🖌 Paper Tips](resources/paper-tips/README.md)
+* [🖌️ Paper Tips](resources/paper-tips/README.md)
   * [5 Questions for Introduction (or any research)](resources/paper-tips/5-questions-for-introduction-or-any-research.md)
   * [Writing a Short Research Proposal as a Student](resources/paper-tips/writing-a-short-research-proposal-as-a-student.md)
   * [How to read paper](resources/paper-tips/how-to-read-paper.md)
