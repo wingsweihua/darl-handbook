@@ -20,6 +20,7 @@
 * **Two days before the deadline**, the authors can request Hua for additional help on paper.&#x20;
 * One day before the deadline, fix all the errors and warnings in Overleaf. Sometimes the warnings include duplicate definitions of a label, this could cause wrong references for figures/tables.
 * **One hour before the deadline**, finish the following checklist:
+  * [ ] Shorten the sentence so that there isn't just one word in a line. (缩短句子，让一行里不要只有一个词)
   * [ ] Run a Grammarly/ChatGpt check to catch typos. (grammarly check一遍typo)
   * [ ] Verify all abbreviations to ensure their full forms are provided before their first usage. (检查所有的缩写，第一次出现之前是不是有全称)
     * [ ] Remember, in formal writing, "can't" cannot be abbreviated; it should be written as "cannot" without a space between "can" and "not".  (Can't不能缩写，要写成cannot)
