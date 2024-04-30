@@ -1,5 +1,7 @@
 # 📑 Paper Writing
 
+* As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.&#x20;
+  * Also, if you contributed to anyone’s project, ask them to recognize your contribution in time if they did not.
 * **Once a plan for submission to a conference is confirmed**, the (lead) student should create an **overleaf** and invite immediately to Hua as a co-owner of the overleaf project. &#x20;
 * **14 days before the deadline**, a manuscript should be ready for collaborating students to review.
   * The lead author should read the requirements (call for papers) and **create a submission on the conference submission site** - this is very important since some conference has abstract submission deadlines.  The submission is not necessarily an ideal version)
