@@ -129,7 +129,7 @@ When you share an article, please update **\[redacted]** with a URL to the relev
   * Accomplishments/events (e.g. if the music lab is giving a talk/poster at a conference, a paper comes out, etc.)
   * Posts about current music-related events
   * Articles: media coverage of lab related research, affiliate research, or topics we care about (infants, music, sound, etc.)
-  * Updates about [themusiclab.org](http://themusiclab.org)
+  * Updates about [https://labs.engineering.asu.edu/hw/](https://labs.engineering.asu.edu/hw/)
   * Photos of babies that participated in studies and whose parents gave us permission to post on social media
   * Photos advertising new studies in the lab
   * Photos of Theo, our Chief Pilot Subject (ask Sam)
