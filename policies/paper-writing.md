@@ -42,5 +42,7 @@
 * After submission (you should submit it at least 1 hour before the deadline), download your submission from the submission site and check the following:
   * Do the pages exceed the requirements?
   * Does the appendix satisfy the requirements?
-* One week after the submission deadline, you should write a blog when your mind still remembers it. Details can be found in [Paper Maintaining](paper-maintainance.md).
+* One week after the submission deadline, you should:
+  * Write a blog when your mind still remembers it. Details can be found in [Paper Maintaining](paper-maintainance.md).
+  * Think about "what's next?" after this paper and discuss it with Hua
 
