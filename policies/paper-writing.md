@@ -1,6 +1,9 @@
 # 📑 Paper Writing
 
 * As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.&#x20;
+  * What is considered a contribution?
+    * Discussions should not be counted as contributions, implementation/theoretically-sound ideas could be.&#x20;
+    * Same for writing - proof-reading should not be counted as contributions, actual writing could be
   * Also, if you contributed to anyone’s project, ask them to recognize your contribution in time if they did not.
 * **Once a plan for submission to a conference is confirmed**, the (lead) student should create an **overleaf** and invite immediately to Hua as a co-owner of the overleaf project. &#x20;
 * **14 days before the deadline**, a manuscript should be ready for collaborating students to review.
