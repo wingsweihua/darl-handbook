@@ -35,13 +35,11 @@ Map to main lab space: **`[redacted]`** Map to infant testing space: **`[redacte
 
 ### **Web and social media**
 
-Main website: [https://www.public.asu.edu/\~hwei27/index.html](https://www.public.asu.edu/\~hwei27/index.html)&#x20;
+Main website: [https://labs.engineering.asu.edu/hw/](https://labs.engineering.asu.edu/hw/)
 
 Lab PI Twitter: [twitter.com/realhuawei](https://twitter.com/realhuawei)
 
 SCAI website: [https://scai.engineering.asu.edu/](https://scai.engineering.asu.edu/)
-
-Laboratory for Developmental Studies (LDS) website: [https://www.harvardlds.org/](https://www.harvardlds.org/)&#x20;
 
 ### Emails
 
@@ -52,7 +50,7 @@ Laboratory for Developmental Studies (LDS) website: [https://www.harvardlds.org/
 Here's how to get copies of most pieces of software that we use regularly. If a link is wrong here, please post on #musiclab to let us know and we'll update it. We don't check this list frequently.
 
 * **Slack** _\*\*_(signup or download)
-* Office 365, RStudio, and Stata
+* Office 365
 * Powtoon
 * Git
 
