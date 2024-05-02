@@ -26,6 +26,7 @@
 * [🏠 Day-to-day expectations](policies/day-to-day-expectations.md)
 * [🥸 Mentorship](policies/mentorship.md)
 * [📑 Paper Writing](policies/paper-writing.md)
+* [Presentation](policies/presentation.md)
 * [🧹 Paper Maintainance](policies/paper-maintainance.md)
 * [👔 Attending Conferences](policies/attending-conferences.md)
 
