@@ -65,20 +65,3 @@ For most letters, it will be helpful if you provide a CV, instructions about the
 ## Becoming a thesis student
 
 Many of my undergrad/master thesis students began their work in my lab as RAs or volunteers. If you think you might want to do a thesis under the aegis of my lab, let me know! The best way to make this happen is (1) to do a fantastic job with your RA duties; and (2) to chat with me early and often about project ideas. It's quite often that a student's thesis project ideas overlap substantially with research that's already happening in the lab, which is great — it means that a thesis project will be very strong on its own, and can often result in a publication for the student. For example, several of the authors of papers in the [Reading list](../resources/readings.md) worked with me as thesis students, and their projects were published as part of larger papers.
-
-
-
-## Present regularly (seminars, to your advisors)
-
-This is basically the #1 mistake some of my own students make at the beginning of our work together. I’ll give them a task, they’ll disappear into the ether, and then they’ll return two months later with some issues that could have used early feedback. What’s the point of being part of the research community if you’re not taking advantage of it? Feedback is the fastest way to discover that your ideas need to be cleared up a bit, to get pointers to work that you’ve missed, and to force yourself to keep your work organized in a manner that is legible.
-
-Suggested frequency:
-
-* If you have a graduate student mentor on a project, check in with them quite often! They’re there to help and know how to get out of some holes you can dig yourself into.
-* Get lunch or informally discuss your work with smart folks basically **as much as you can** (you are likely to be quite rate-limited on how often you can find a way to do this rather than rate limited by how useful this is). This way you get to know them and probably learn a ton about how they think.
-* Present to your advisors at least every other week
-* Present to your lab group at least once a semester
-* Present to the department at least once a year (but better if once a semester)
-* Present or discuss your work in some informal settings (reading group, small seminar) at least twice a semester
-
-Yeah, it’s a lot of presenting.
