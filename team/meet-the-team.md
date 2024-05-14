@@ -26,15 +26,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 **GitBook tip:** Your bio could be your background, your research interest or your hobbies.
 {% endhint %}
 
-## [Hao Mei](https://derekmei233.github.io/)
 
-👋 Ph.D. student — 💌hmei7@asu.edu — 🇺🇸 Phoenix (GMT-7)
-
-![](https://derekmei233.github.io/authors/admin/%20avatar\_hu387368abf67028706822ce7ec8fd4073\_328760\_270x270\_fill\_q75\_lanczos\_center.JPG)
-
-### Bio
-
-I am a Ph.D. student at Arizona State University. Previously, I completed my master's degree in Electrical & Computer Engineering at the University of California, San Diego. Currently, I am conducting research in the field of Reinforcement Learning and data mining under the mentorship of Prof. Hua Wei. Beyond academics, I find joy in camping and swimming during my leisure time.
 
 ## [Longchao Da](https://longchaoda.github.io/)
 
