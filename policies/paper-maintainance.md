@@ -1,9 +1,12 @@
 # 🧹 Paper Maintainance
 
-A typical paper maintenance is a camera-ready version and presentation with talks and posters in conferences.
+Paper acceptance is the start of a project, rather than an end - it means you finally have the "authorization'' to promote the paper/project! And a lot is going on in the maintenance process.&#x20;
+
+The goal of paper maintenance is to make it impactful, an indicator is the citation of this paper. A typical paper maintenance is a camera-ready version and presentation with talks and posters in conferences.
 
 * [Code of conduct ](code-of-conduct.md)over presentations and posters.
 * Posters and presentations should be reviewed by Hua two weeks before the conference.
+* Promote on social media: [See your research roar with social media](../resources/paper-tips/see-your-research-soar-with-social-media.md)
 
 Here are some suggestions on how to maintain and promote your published papers before presenting your paper as a talk or poster at relevant academic conferences and workshops:
 
