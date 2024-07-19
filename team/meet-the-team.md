@@ -38,7 +38,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 I'm an incoming CS Ph.D. student at Arizona State University, where I will be working under the guidance of Prof. Hua Wei. Prior to this, I served as a research assistant at the New Jersey Institute of Technology. My academic focus centers on the fascinating realms of Reinforcement Learning and Data Mining, and I am deeply committed to exploring their real-world applications, like the deployment of Traffic Signal Control strategies, and AI4Science. Apart from my research pursuits, Music and Workout are my favorite!
 
-## Jiaxing Zhang
+## [Jiaxing Zhang](https://tabzhangjx.github.io/)
 
 👋 Ph.D. student — 💌jz48@njit.edu — Currently 🇺🇸 Newark (GMT-4)
 
@@ -48,7 +48,7 @@ I'm an incoming CS Ph.D. student at Arizona State University, where I will be wo
 
 I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my bachelor's degree in computer science from Xi’an Jiaotong University in 2020. I’m currently doing my Ph.D. study, (co-)supervised by Prof. Hua Wei. My research focuses on data mining (Explainable AI), deep learning (LLM), and natural language processing (code analysis).
 
-## Tiejin Chen
+## [Tiejin Chen](https://tiejin98.github.io/)
 
 👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
