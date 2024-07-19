@@ -4,7 +4,7 @@
 
 ### When and where to work
 
-Every lab member works out their own schedule in conjunction with their supervisor (either a lab manager or Hua).
+Every lab member works out their own schedule in conjunction with their supervisor (either a lab manager or Hua). Hua's office is located at 586 Brickyard, some of our lab members are located on the southeast part of the 4th floor in Brickyard, and some are located at 114 Centerpoint. If you need access to Brickyard or Centerpoint building, please contact Hua and apply [here](https://isaacrequest.asu.edu/tempe). We could also use Brickyard 205 MOCAP by reserving time [here](https://outlook.office365.com/owa/calendar/SCAIMOCAPTestBed@arizonastateu.onmicrosoft.com/bookings/).
 
 * Undergraduate research assistants are expected to work 10 hours per week, physically in the lab (or, when duties require, at other locations on and off campus).
 * Senior thesis students are expected to be in the lab closer to full-time, depending on their research and writing workload. They can do some of their work (especially writing) remotely, but should discuss with Hua how to manage remote activities well.
