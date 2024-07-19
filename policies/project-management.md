@@ -1,28 +1,10 @@
-# 🛠 Project management
+# 🛠️ Project management
 
 To understand the status of projects and figure out what needs to happen next, we use Trello. For scheduling events, we use Google Calendar. For data management, analysis, and writing we use a variety of software platforms.
 
-## Status (Trello)
-
-We keep track of all our projects on Trello, a project management platform that basically is a bunch of nested lists. While Trello has a variety of features, including commenting and communication, **we only use it for management, not for communication**. This means that if you want to talk to someone about a card or checklist item, **always do so in Slack, not in the built-in commenting system.** This is a firm rule — just as email is redundant with Slack, so is communication in Trello.
-
-Instead, we use Trello to keep track of the status of projects and shepherd them from the ideas stage thru experimental design, data collection, analysis, write-up, and publication. To facilitate discussion of events recorded on Trello (e.g., "a new checklist item was created for TML"), some Slack channels have Trello bots that automatically post updates, which can then be replied to in threads.
-
-{% hint style="info" %}
-The most important board on Trello is **darllab-status**. This is the overview board for all Music Lab projects: each card on the board represents a project, and has a master checklist of the big things happening next (like "draft the methods section of the paper!"). **darllab-status** is also the home of the ever-important **Who's Doing What** list (which hosts to-do lists for all lab members).
-{% endhint %}
-
-In general, there is no standardized way that we use Trello across different projects. This is intentional: different projects have vastly different project management needs.&#x20;
-
-As you get involved in a project, you'll get the hang of what parts of that project's presence on Trello you need to pay attention to. At the very least, you'll need to use darllab-status to know what's happening next on your projects; however, in most cases, you'll use the full project board to organize your work.
-
-{% hint style="danger" %}
-A word of warning: **most of Trello is editable**, even by new lab members. We trust you to be careful and ensure you don't delete things or check off items unintentionally.
-{% endhint %}
-
 ## Calendars
 
-As part of onboarding process at The DaRL Lab, a lab manager will share a google calendar with you. It is your responsibility to keep this up to date to reflect your scheduled work hours.
+As part of the onboarding process at The DaRL Lab, a lab manager will share a google calendar with you. It is your responsibility to keep this up to date to reflect your scheduled work hours.
 
 ## Data management
 
@@ -31,6 +13,10 @@ Our data, stim, videos, papers, and so on are our most valuable products! As suc
 All Music Lab files are stored in at least one of two places: on GitHub or Google Drive. These three locations are for three separate things, as follows:
 
 Most of your day-to-day work will involve files on GitHub and Google Drive.
+
+{% hint style="danger" %}
+A word of warning: **most of GoogleDrive is editable**, even by new lab members. We trust you to be careful and ensure you don't delete things or check off items unintentionally.
+{% endhint %}
 
 ### Version control and redundant backups
 
@@ -122,3 +108,19 @@ Like our approach to data analysis, we feel there is not any one "right way" to 
 If you're collaborating on a Word manuscript, preserve an intelligible filename, usually with the project name, the journal it will be submitted to, and the version number (e.g., `NHS_sci_2b.docx`). Append your initials to the filename after you've edited so that it's easy to tell who's version is whose (e.g., `NHS_sci_2b_sm.docx`).&#x20;
 
 If you're working on a Markdown manuscript, then we generally won't change the filename as editing progresses, since GitHub will take care of comparing versions automatically so long as the filename stays the same. So you should just title the manuscript with the project name and the journal it will be submitted to (e.g., `IPL_nhb.md`).
+
+
+
+## ~~Deprecated: Status (Trello)~~ now with Slack
+
+~~We keep track of all our projects on Trello, a project management platform that basically is a bunch of nested lists. While Trello has a variety of features, including commenting and communication, **we only use it for management, not for communication**. This means that if you want to talk to someone about a card or checklist item, **always do so in Slack, not in the built-in commenting system.** This is a firm rule — just as email is redundant with Slack, so is communication in Trello.~~
+
+~~Instead, we use Trello to keep track of the status of projects and shepherd them from the ideas stage thru experimental design, data collection, analysis, write-up, and publication. To facilitate discussion of events recorded on Trello (e.g., "a new checklist item was created for TML"), some Slack channels have Trello bots that automatically post updates, which can then be replied to in threads.~~
+
+{% hint style="info" %}
+~~The most important board on Trello is **darllab-status**. This is the overview board for all Music Lab projects: each card on the board represents a project, and has a master checklist of the big things happening next (like "draft the methods section of the paper!"). **darllab-status** is also the home of the ever-important **Who's Doing What** list (which hosts to-do lists for all lab members).~~
+{% endhint %}
+
+~~In general, there is no standardized way that we use Trello across different projects. This is intentional: different projects have vastly different project management needs.~~&#x20;
+
+~~As you get involved in a project, you'll get the hang of what parts of that project's presence on Trello you need to pay attention to. At the very least, you'll need to use darllab-status to know what's happening next on your projects; however, in most cases, you'll use the full project board to organize your work.~~
