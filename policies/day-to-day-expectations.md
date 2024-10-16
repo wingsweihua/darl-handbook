@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://www.azwater.gov/sites/default/files/styles/banner_image/public/Article_banner_drought_2019_0.jpg?itok=wEggpjOT
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 🏠 Day-to-day expectations
 
 ## Basics

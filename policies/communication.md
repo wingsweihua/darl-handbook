@@ -1,11 +1,11 @@
 ---
 cover: >-
-  ../.gitbook/assets/ASU_Welcome_Social_Media_Toolkit_Website_Hero_Image_Option_1.webp
-coverY: -39.49090909090909
+  https://t4.ftcdn.net/jpg/08/99/57/25/360_F_899572505_SqkNFLTZtYaVMUDqfmqEzhW540GKbWSZ.jpg
+coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

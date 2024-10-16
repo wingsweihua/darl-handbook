@@ -47,7 +47,7 @@ All regular lab members should have a weekly recurring meeting with me. These ar
 
 ### How to schedule a meeting
 
-For one-time appointments that you schedule yourself, find a time that you know works for me (e.g., during my drop-in hours), make a calendar event on your own Google Calendar, and invite me to the appointment with the email. Last, send me a DM to let me know that you booked it.
+For one-time appointments that you schedule yourself, find a time that you know works for me (e.g., during my drop-in hours or find it on [Calendly](https://calendly.com/realhuawei)), make a calendar event on your own Google Calendar, and invite me to the appointment with the email. Last, send me a DM to let me know that you booked it.
 
 For recurring appointments, a lab manager can help you find a time that works every week; they'll add it to my calendar directly and invite you to the appointment.
 
