@@ -1,5 +1,22 @@
 ---
 description: This page is a big list of things you may need while working in the DaRL Lab.
+cover: >-
+  https://media.istockphoto.com/id/493439588/photo/equipment-necessary-for-mountaineering-and-hiking.jpg?s=612x612&w=0&k=20&c=NuC5RbLiHIGMqNVJ9JWjSGtZpAG0WDZSSM5zK1YKLW4=
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🧰 Things you may need
