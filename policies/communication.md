@@ -1,3 +1,23 @@
+---
+cover: >-
+  ../.gitbook/assets/ASU_Welcome_Social_Media_Toolkit_Website_Hero_Image_Option_1.webp
+coverY: -39.49090909090909
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📞 Communication
 
 Because our lab has a very wide variety of projects that span across departments, universities, and time zones, keeping in touch with one another in a supportive and productive fashion may be the most important thing that we do.
