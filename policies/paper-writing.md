@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://fastessay.com/blog/wp-content/uploads/2018/06/How-to-Write-a-Research-Paper.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📑 Paper Writing
 
 * As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.&#x20;
@@ -44,6 +64,6 @@
   * Do the pages exceed the requirements?
   * Does the appendix satisfy the requirements?
 * One week after the submission deadline, you should:
-  * Write a blog when your mind still remembers it. Details can be found in [Paper Maintaining](paper-maintainance.md).
+  * Write a blog when your mind still remembers it. Details can be found in [Paper Maintaining](paper-maintenance.md).
   * Think about "what's next?" after this paper and discuss it with Hua
 

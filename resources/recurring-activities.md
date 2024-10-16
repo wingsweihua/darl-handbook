@@ -2,6 +2,23 @@
 description: >-
   This page lists all the things RAs need to take care of on a recurring basis.
   Daily checklist
+cover: >-
+  https://img.freepik.com/premium-photo/multiracial-group-join-hands-together-people-with-joined-their-hands-team-strenght-sign-wide-banner_1010211-83.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # ⌚ Recurring activities

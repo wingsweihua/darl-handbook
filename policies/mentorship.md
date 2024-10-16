@@ -2,6 +2,23 @@
 description: >-
   Because this page is about how lab members interact with Hua, it's written in
   the first person :)
+cover: >-
+  https://globalgirlsglow.org/wp-content/uploads/2022/01/AdobeStock_222629868-scaled-e1642989762671.jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🥸 Mentorship

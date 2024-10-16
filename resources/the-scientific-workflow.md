@@ -1,3 +1,23 @@
+---
+cover: >-
+  https://png.pngtree.com/thumb_back/fw800/background/20240618/pngtree-rocky-river-fast-flow-of-water-long-exposure-image_15797801.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 💡 The Scientific Workflow
 
 This is a guide for carrying out research in my lab. Keep this workflow in mind when you are planning, conducting, analyzing, and interpreting scientific work. You may notice two themes that seem to run throughout the plan: documenting and sharing. That’s the take-home message: Document everything you do and share your work for feedback (with the group, your peers, the field, and the public). Not every project will follow this outline, but most will. &#x20;

@@ -1,3 +1,22 @@
+---
+cover: https://education.somaiya.edu/assets/b.ed/img/library/banner-library.webp
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # 📚 Readings
 
 ## Required readings for all new lab members

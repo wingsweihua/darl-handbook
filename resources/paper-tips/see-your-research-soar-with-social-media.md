@@ -1,18 +1,13 @@
 ---
 description: >-
   Follow the plan below for detailed social media posts that can help promote
-  your journal article.
+  your article. When following this plan, please note that when you see text
+  within brackets [ ] it indicates that you
 ---
 
 # See Your Research Soar with Social Media
 
-
-
 [Reference](https://www.springernature.com/gp/see-your-research-soar-with-sharedit/16300856?utm\_source=other\&utm\_medium=other\&utm\_campaign=AEXS\_1\_PF\_ReadCubeEmail)
-
-####
-
-_When following this plan, please note that when you see text within brackets \[ ] it indicates that you must edit according to the instructions provided. After you have customized the text, remove the brackets before posting._
 
 #### Week One of Publication
 

@@ -1,4 +1,24 @@
-# 🧹 Paper Maintainance
+---
+cover: >-
+  https://media.istockphoto.com/id/1219401440/photo/banner-of-automobile-mechanic-man-and-team-checking-car-damage-broken-part-condition.jpg?s=612x612&w=0&k=20&c=-vaK4Pr81HOfB0cYT4uXrOnPSQ06mS2Pjq_LN9vDqfc=
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🧹 Paper Maintenance
 
 Paper acceptance is the start of a project, rather than an end - it means you finally have the "authorization'' to promote the paper/project! And a lot is going on in the maintenance process.&#x20;
 
