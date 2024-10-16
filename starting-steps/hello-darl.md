@@ -1,7 +1,21 @@
 ---
 cover: >-
-  https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
-coverY: 0
+  https://media.istockphoto.com/id/1142779449/photo/woman-clerk-sitting-holding-note-paper-sticker-with-newbie-word-business-concept-concept.jpg?s=612x612&w=0&k=20&c=Zo-bfno4RTNaEGD6tCi93dk7cO2ODQoLXSQ0bM-MJ-w=
+coverY: 47
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🐦 Hello, DaRL!
