@@ -64,7 +64,9 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
 
-## &#x20;Justin Turnau
+Bio: I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
+
+## Justin Turnau
 
 👋 Ph.D. student — 💌jturnau@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
