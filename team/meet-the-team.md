@@ -56,7 +56,19 @@ I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my ba
 
 ### &#x20;Bio
 
-I am an incoming CS Ph.D. student at Arizona State University, where I am supervised by Prof. Hua Wei. Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. My research interests lie in efficient machine learning and reinforcement learning.
+I am an CS Ph.D. student at Arizona State University, where I am supervised by Prof. Hua Wei. Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. My research interests lie in efficient machine learning and reinforcement learning.
+
+## Xiaoou Liu
+
+👋 Ph.D. student — 💌xiaooulii@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
+
+## &#x20;Justin Turnau
+
+👋 Ph.D. student — 💌jturnau@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
+
+<figure><img src="../.gitbook/assets/IMG_9759.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
