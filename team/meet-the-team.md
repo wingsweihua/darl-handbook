@@ -50,7 +50,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 ### Bio
 
-I'm an incoming CS Ph.D. student at Arizona State University, where I will be working under the guidance of Prof. Hua Wei. Prior to this, I served as a research assistant at the New Jersey Institute of Technology. My academic focus centers on the fascinating realms of Reinforcement Learning and Data Mining, and I am deeply committed to exploring their real-world applications, like the deployment of Traffic Signal Control strategies, and AI4Science. Apart from my research pursuits, Music and Workout are my favorite!
+I'm a CS Ph.D. student at Arizona State University, where I am under the guidance of Prof. Hua Wei. Prior to this, I served as a research assistant at the New Jersey Institute of Technology. My academic focus centers on the trustworthy LLMs, Reinforcement Learning and Data Mining, and I am deeply committed to exploring their real-world applications. Apart from my research pursuits, Music and Workout are my favorite!
 
 ## [Jiaxing Zhang](https://tabzhangjx.github.io/)
 
