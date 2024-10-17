@@ -53,6 +53,7 @@
   * [Drafting Posters](resources/paper-tips/drafting-posters.md)
   * [See Your Research Soar with Social Media](resources/paper-tips/see-your-research-soar-with-social-media.md)
   * [AI for research writing](resources/paper-tips/ai-for-research-writing.md)
+  * [Scientific Pictures](resources/paper-tips/scientific-pictures.md)
 * [🧰 Things you may need](resources/things-you-may-need.md)
 * [💡 The Scientific Workflow](resources/the-scientific-workflow.md)
 
