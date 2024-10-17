@@ -94,13 +94,13 @@ I am a first-year PhD student at Arizona State University, working under the men
 
 ## Robots
 
-| Profile                                                                                             | Name       | Parent        |
-| --------------------------------------------------------------------------------------------------- | ---------- | ------------- |
-| <img src="../.gitbook/assets/3C4283CC-73E2-4D75-9BB9-421234BE480E.JPG" alt="" data-size="original"> | Darl Track | Hua Wei       |
-| <img src="../.gitbook/assets/IMG_7664.jpg" alt="" data-size="original">                             | Longchao   | Longchao Da   |
-| <img src="../.gitbook/assets/IMG_20241017_103016.jpg" alt="" data-size="original">                  | TJ         | Tiejin Chen   |
-| <img src="../.gitbook/assets/IMG_6148.jpg" alt="" data-size="original">                             | Xiaoou     | Xiaoou Liu    |
-| <img src="../.gitbook/assets/IMG_9832.jpg" alt="" data-size="original">                             | Mad Max    | Justin Turnau |
+| Profile                                                                                             | Name       | Parent                      |
+| --------------------------------------------------------------------------------------------------- | ---------- | --------------------------- |
+| <img src="../.gitbook/assets/3C4283CC-73E2-4D75-9BB9-421234BE480E.JPG" alt="" data-size="original"> | Darl Track | Longchao Da and Tiejin Chen |
+| <img src="../.gitbook/assets/IMG_7664.jpg" alt="" data-size="original">                             | Longchao   | Longchao Da                 |
+| <img src="../.gitbook/assets/IMG_20241017_103016.jpg" alt="" data-size="original">                  | TJ         | Tiejin Chen                 |
+| <img src="../.gitbook/assets/IMG_6148.jpg" alt="" data-size="original">                             | Xiaoou     | Xiaoou Liu                  |
+| <img src="../.gitbook/assets/IMG_9832.jpg" alt="" data-size="original">                             | Mad Max    | Justin Turnau               |
 
 
 
