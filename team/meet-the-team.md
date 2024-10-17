@@ -68,7 +68,7 @@ I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my ba
 
 <figure><img src="../.gitbook/assets/picture_tj.jpg" alt=""><figcaption></figcaption></figure>
 
-### &#x20;Bio
+### Bio
 
 I am an CS Ph.D. student at Arizona State University, where I am supervised by Prof. Hua Wei. Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. My research interests lie in efficient machine learning and reinforcement learning.
 
@@ -78,7 +78,9 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="188"><figcaption></figcaption></figure>
 
-Bio: I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
+### Bio
+
+I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
 
 ## Justin Turnau
 
@@ -86,7 +88,19 @@ Bio: I am a first-year Ph.D. student in Computer Science at Arizona State Univer
 
 <figure><img src="../.gitbook/assets/IMG_9759.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
+### Bio
 
+I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from the University of Cincinnati. My research focuses on Reinforcement Learning, with a particular emphasis on Multi-Agent Reinforcement Learning. Outside of my academic pursuits, I enjoy playing board games and video games, as well as listening to music!
+
+## Robots
+
+| Profile                                                                                             | Name       | Parent        |
+| --------------------------------------------------------------------------------------------------- | ---------- | ------------- |
+| <img src="../.gitbook/assets/3C4283CC-73E2-4D75-9BB9-421234BE480E.JPG" alt="" data-size="original"> | Darl Track | Hua Wei       |
+| <img src="../.gitbook/assets/IMG_7664.jpg" alt="" data-size="original">                             | Longchao   | Longchao Da   |
+| <img src="../.gitbook/assets/IMG_20241017_103016.jpg" alt="" data-size="original">                  | TJ         | Tiejin Chen   |
+| <img src="../.gitbook/assets/IMG_6148.jpg" alt="" data-size="original">                             | Xiaoou     | Xiaoou Liu    |
+| <img src="../.gitbook/assets/IMG_9832.jpg" alt="" data-size="original">                             | Mad Max    | Justin Turnau |
 
 
 
