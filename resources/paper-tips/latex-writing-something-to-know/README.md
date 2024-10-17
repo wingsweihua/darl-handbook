@@ -28,4 +28,6 @@ Something that speeds up your writing:
 
       `\newcommand{\ours}{\datasetFont{MixupExplainer}\xspace}`
 * [ ] Latex Debug tip: If you run into an error in Latex, sometimes it's hard to locate directly what causes the error - Just delete part of your latex to narrow down the candidate location (but remember to put it in a copy).
+* [ ] Additional readings with examples:&#x20;
+  * Paper Writing Tips by MLNLP-World: [https://github.com/MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 
