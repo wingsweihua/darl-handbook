@@ -72,7 +72,7 @@ I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my ba
 
 I am an CS Ph.D. student at Arizona State University, where I am supervised by Prof. Hua Wei. Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. My research interests lie in efficient machine learning and reinforcement learning.
 
-## Xiaoou Liu
+## [Xiaoou Liu](https://xiao0o0o.github.io/)
 
 👋 Ph.D. student — 💌xiaooulii@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
@@ -82,7 +82,7 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
 
-## Justin Turnau
+## [Justin Turnau](https://justinturnau.github.io/)
 
 👋 Ph.D. student — 💌jturnau@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
