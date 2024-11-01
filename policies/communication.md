@@ -40,13 +40,12 @@ All lab members are required to **download the Slack app** to their computers an
 
 ### How and where to post
 
-Every project gets its own channel (like `#ipl`). Some projects are large enough to require multiple channels (like `#tml` and its many channel-children, like `#tml-td` and `#tml-fc`).
+Every project gets its own channel (like `#libsignal`). Some projects are large enough to require multiple channels (like `#libsignal` and its many channel-children, like `#libsignal-develop` and `#libsignal-teaching`).
 
 In addition to project-specific channels, we have a variety of channels for organizational purposes.\
-`#general` is where we share various thoughts and ideas across the Music Lab and EPL, along with interesting new papers, and lab-wide announcements (including lab meeting info).\
-`#musiclab` is where we share posts that are specific to Music Lab members (and not necessarily relevant to other members of the workspace).\
-`#musiclab-babytimes` is for info regarding scheduling infants for studies (e.g. checking to see if anyone can run a baby after-hours/on the weekend).\
-`#musiclab-status` is where, at the start of each work day, we each post a quick overview of what we plan on working on for the day.
+`#general` or #random is where we share various thoughts and ideas across the DaRL Lab and EPL, along with interesting new papers, and lab-wide announcements (including lab meeting info).\
+`#sharing` is a private channel where we share posts that are specific to DaRL Lab members (and not necessarily relevant to other members of the workspace).\
+
 
 You'll get the hang of what goes where, and if you post something in a funny place, typically an admin will remove it or ask you to repost it elsewhere.
 
@@ -65,7 +64,7 @@ You can also join channels on your own: by default, most of our project channels
 You'll find that **almost all messages you write on Slack should be in a channel, and not in a Direct Message**. This is because Slack's value is in its search functions: they make it easy to find messages about a particular project long after they have been posted. This only works well if messages are grouped in the right channels, by projects; we can't search each other's direct messages.
 
 {% hint style="danger" %}
-Direct messages should **only** be used for confidential conversations (like advising discussions with Sam) or for incidental messages that nobody else needs to read (like "are we skyping now?").
+Direct messages should **only** be used for confidential conversations (like advising discussions with Hua) or for incidental messages that nobody else needs to read (like "are we skyping now?").
 {% endhint %}
 
 When in doubt, post something publicly, so that anybody with something useful to add can weigh in. Even if they don't need to weigh in, they'll see your messages and can keep up to date with what's going on.
@@ -74,10 +73,10 @@ When in doubt, post something publicly, so that anybody with something useful to
 
 To tag specific people in posts, use `@username` to get their attention. Most people only get notifications for posts that include their name, so this can also be helpful if you want someone to weigh in on a particular thread (they might not have seen it at all if they weren't tagged.)
 
-In the Music Lab, we are **active nudgers**. We've got a lot going on in lab, which means that we miss messages now and then! It's nothing personal.
+In the DaRL Lab, we are **active nudgers**. We've got a lot going on in lab, which means that we miss messages now and then! It's nothing personal.
 
 {% hint style="info" %}
-If you need a response and haven't got one, it is **always okay** to re-reply to a thread, tagging whoever's attention you need. "hey `@username` just bumping this" is always an appropriate thing to post, for all lab members, including Sam!
+If you need a response and haven't got one, it is **always okay** to re-reply to a thread, tagging whoever's attention you need. "hey `@username` just bumping this" is always an appropriate thing to post, for all lab members, including Hua!
 {% endhint %}
 
 ### Acknowledging tasks and saying when things are done
@@ -146,8 +145,8 @@ When you share an article, please update **\[redacted]** with a URL to the relev
 * Hashtags, links, and emoji are great additions too
 * Common topics:
   * Introductions for new lab members (sometimes these are baby pics)
-  * Accomplishments/events (e.g. if the music lab is giving a talk/poster at a conference, a paper comes out, etc.)
-  * Posts about current music-related events
+  * Accomplishments/events (e.g. if the DaRL lab is giving a talk/poster at a conference, a paper comes out, etc.)
+  * Posts about current research-related events
   * Articles: media coverage of lab related research, affiliate research, or topics we care about (infants, music, sound, etc.)
   * Updates about [https://labs.engineering.asu.edu/hw/](https://labs.engineering.asu.edu/hw/)
   * Photos of babies that participated in studies and whose parents gave us permission to post on social media
