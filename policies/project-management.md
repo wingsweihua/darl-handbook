@@ -40,7 +40,7 @@ A word of warning: **most of GoogleDrive is editable**, even by new lab members.
 
 ### Version control and redundant backups
 
-Every project has its own GitHub repository. This is where we store all of our files, **with two exceptions**: (1) large and/or high-security files, which live on personal google drive folders, and (2) Google Docs, which can't be git-controlled, and so they live on the shared Google Drive. All GitHub repos are managed via our GitHub Organization account ([http://github.com/themusiclab](http://github.com/themusiclab)). For example, the code for this Handbook is tracked at [http://github.com/themusiclab/handbook](http://github.com/themusiclab/TML\_handbook).
+Every project has its own GitHub repository. This is where we store all of our files, **with two exceptions**: (1) large and/or high-security files, which live on personal google drive folders, and (2) Google Docs, which can't be git-controlled, and so they live on the shared Google Drive. All GitHub repos are managed via our GitHub Organization account ([https://github.com/DaRL-LibSignal](https://github.com/DaRL-LibSignal)).&#x20;
 
 Project repos have a standardized directory structure, to keep things simple across scripts for different projects:
 
@@ -55,7 +55,7 @@ Any projects that have large files, such as corpus projects with thousands of te
 For the vast majority of projects that you'll be involved with, you will need to get comfortable with the basics of git: cloning repositories, making changes, and pushing your changes.
 
 {% hint style="info" %}
-If you've cloned one of our project repos and are having trouble pushing changes to master, most likely the issue is that your clone doesn't have an origin url set up properly. In Terminal, use `cd` to navigate to your local copy of the repo and then type `git remote set-url origin http://USER:PASSWORD@github.com/themusiclab/REPO.git`where `USER` and `PASSWORD` correspond to your GitHub credentials, and `REPO` is the name of the GitHub repository you're working in.
+If you've cloned one of our project repos and are having trouble pushing changes to master, most likely the issue is that your clone doesn't have an origin url set up properly. In Terminal, use `cd` to navigate to your local copy of the repo and then type `git remote set-url origin http://USER:PASSWORD@github.com/DaRL-LibSignal/REPO.git`where `USER` and `PASSWORD` correspond to your GitHub credentials, and `REPO` is the name of the GitHub repository you're working in.
 {% endhint %}
 
 All lab computers are set up such that our local copies of project repositories will live in the path `~/git`. If this folder doesn't exist (i.e. you are on a non-lab machine), make this folder in your home directory to store all project related local repositories. More details on how to use git can be found easily online.
@@ -64,13 +64,13 @@ GitHub repositories that have large files (e.g., datasets over 100MB) require yo
 
 ### Shared Google Drive
 
-Google Documents have built-in version control, so they don't need to be stored in a git repo. Instead, **we store all Google Documents in our shared Google Drive, `darlshareddrive`**. This can get a bit confusing because often Google Documents are created on the fly by different people.
+Google Documents have built-in version control, so they don't need to be stored in a git repo. Instead, **we store all Google Documents in our shared Google Drive,** [**`DaRL Shared Folder`**](https://drive.google.com/drive/folders/15-cPhFvIWpCLsQhx-jquMu6orX0i-W5f?usp=drive\_link). This can get a bit confusing because often Google Documents are created on the fly by different people.
 
 {% hint style="danger" %}
 To ensure that we never lose access to a document we need, when you create a Google Doc (or sheet, form, etc), immediately move it to the `musiclabgdrive` Shared Google Drive. This will automatically enable access for everybody in the lab.
 {% endhint %}
 
-If you see a lab Google Document that is **not** in **`darlshareddrive`**, let a lab manager know so that we can fix it!
+If you see a lab Google Document that is **not** in DaRL Shared Folder, let a PhD student know so that we can fix it!
 
 We also want to be sure that our lab-wide documents are not accessible to people outside the lab. For this reason, **please do not use link-based editing or viewing** in Google Docs. Instead, invite the specific people who need access to each document, and manage their permissions directly (usually giving commenting rights to everyone, so that they can type suggestions in the document, but not make direct edits).
 
