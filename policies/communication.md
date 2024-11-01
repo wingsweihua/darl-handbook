@@ -81,7 +81,7 @@ If you need a response and haven't got one, it is **always okay** to re-reply to
 
 ### Acknowledging tasks and saying when things are done
 
-One limitation of online communication is that it's sometimes hard to tell if everyone is on the same page. We make liberal use of `/giphy` (try it) and emoji to make sure we get the message across — when a decision is reached, don't exit the conversation until you say 👍or "got it" or the like.
+One limitation of online communication is that it's sometimes hard to tell if everyone is on the same page. We make liberal use of `:handpitchfork:` (try it) and emoji to make sure we get the message across — when a decision is reached, don't exit the conversation until you say 👍or "got it" or the like.
 
 This is also true for tasks that take a few days. Whenever you _finish_ doing something, make sure you post on Slack so that whoever needs to know that you're finished actually knows. When people forget to do this, it introduces a delay: a couple of days' time when you're finished but nobody knows about it is wasted, when it could be used to move on to the next steps.
 
