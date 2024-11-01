@@ -91,7 +91,7 @@ Our lab follows a flexible approach to sharing data, materials, and code, recogn
   * (a) Discuss the authorship arrangement with Hua ahead of time if collaborating with other researchers.&#x20;
   * (b) If Hua is not a co-author on a particular project, do not assume that she will provide guidance or feedback for that project.&#x20;
   * (c) Hua will not serve as the IRB supervisor for projects in which she is not directly involved.
-* Undergraduate RAs are acknowledged by name for their valuable contributions to projects, such as testing studies and collecting data. If an RA's involvement goes beyond typical work and they make significant intellectual contributions, they may be considered as co-authors. We value everyone's contributions and encourage open discussions about authorship to ensure proper recognition and credit. Keep up the great work!
+* Undergraduate and Master Interns are acknowledged by name for their valuable contributions to projects, such as testing studies and collecting data. If an intern's involvement goes beyond typical work and they make significant intellectual contributions, they may be considered as co-authors. We value everyone's contributions and encourage open discussions about authorship to ensure proper recognition and credit. Keep up the great work!
 
 #### Notifying co-authors of research products
 
