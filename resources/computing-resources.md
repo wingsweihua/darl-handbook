@@ -24,7 +24,11 @@ layout:
 
 University Research Computing Clusters - Agave and SOL:&#x20;
 
-[https://asurc.atlassian.net/wiki/spaces/RC/overview](https://asurc.atlassian.net/wiki/spaces/RC/overview)
+{% embed url="https://asurc.atlassian.net/wiki/spaces/RC/overview" %}
+
+Our lab also has [a handbook for Sol](https://docs.google.com/document/d/1D6L-4DXM2yxBKRDxXdiYPm7r9qOjaqc-a\_Vm6pnq\_ng/edit?usp=sharing) (thanks to Kuan-Ru and TJ!)&#x20;
+
+* If you have any feedback, please let Kuan-Ru and TJ know.
 
 
 
