@@ -50,7 +50,7 @@ At present, nobody in the lab has any severe allergies. If you have one, please 
 * 5 min before the meeting, be on time and prepared. Our time is valuable. If you have a meeting with a labmate, be on time. If you have a meeting with Hua, be on time.  If you have a meeting with people outside of our group, **you are expected to be in the lab at least 30 minutes before the appointment time** to make sure everything is set up and ready to go. And — we can't stress this enough — if you have a zoom meeting, **test your audio/video setup ahead of time** so that you don't waste time in the meeting.
   * **In case of scenarios you cannot make it to the meetings on time, let the participants know beforehand:** if you can make it within 15 min, let them know no later than 5 min before the meeting; if you cannot make it in 15 min, ask to schedule a meeting for another time (or ask other group members after the meeting is done).&#x20;
 * During the meeting, it is required to recap the todo list from the last meeting. If there are new students coming, provide a short background of the project meeting.&#x20;
-* After the meeting, the students should be able to figure out the action items to do. **Summarize the action items in a todo list** on your personal/group slides and update your timesheet on Trello.
+* After the meeting, the students should be able to figure out the action items to do. **Summarize the action items in a todo list** on your personal/group slides and update your timesheet on Slack.
 
 ### Lock the doors!
 
