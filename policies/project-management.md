@@ -64,7 +64,7 @@ GitHub repositories that have large files (e.g., datasets over 100MB) require yo
 
 ### Shared Google Drive
 
-Google Documents have built-in version control, so they don't need to be stored in a git repo. Instead, **we store all Google Documents in our shared Google Drive,** [**`DaRL Shared Folder`**](https://drive.google.com/drive/folders/15-cPhFvIWpCLsQhx-jquMu6orX0i-W5f?usp=drive\_link). This can get a bit confusing because often Google Documents are created on the fly by different people.
+Google Documents have built-in version control, so they don't need to be stored in a git repo. Instead, **we store all Google Documents in our shared Google Drive,** [**`DaRL Shared Folder`**](https://drive.google.com/drive/folders/15-cPhFvIWpCLsQhx-jquMu6orX0i-W5f?usp=drive_link). This can get a bit confusing because often Google Documents are created on the fly by different people.
 
 {% hint style="danger" %}
 To ensure that we never lose access to a document we need, when you create a Google Doc (or sheet, form, etc), immediately move it to the `musiclabgdrive` Shared Google Drive. This will automatically enable access for everybody in the lab.
@@ -110,6 +110,18 @@ With working diaries, you could easily prepare your slides for meetings, and mee
 Location: Google Drive - your individual directory created by the lab
 
 Updated frequency: Weekly before meeting for summary, and updated meeting summary after meeting
+
+**Content to include:**
+
+* A **summary** of what you accomplished in the past week.
+* Detailed explanations of **how** you approached each task, including methodologies or tools used.
+* For results, always follow the framework of **hypothesis → process → observation → conclusion** to clearly convey your findings.
+* A **plan for the upcoming week**, outlining next steps and any anticipated challenges.
+
+**Key Notes**
+
+* Do not be afraid to present plans or conclusions that may be incomplete or incorrect. The goal of the meeting is to identify areas for improvement and to refine your approach. Thinking critically and writing down your ideas beforehand allows Hua to provide better feedback and guidance.
+* These meetings are an opportunity to dive deep into your work, so be thorough and reflective in your preparation.
 
 ### Group meeting notes
 

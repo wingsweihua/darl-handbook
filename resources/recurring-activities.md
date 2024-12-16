@@ -30,13 +30,21 @@ These tasks should be split among all the RAs working on a given day. It is your
 * [ ] Spend a few minutes on social media
   * [ ] Reply/RT/Like any posts mentioning our lab members online
   * [ ] Reply to any questions, thank people for shares, repost hype, etc.
-  * [ ] Post something new **every day**. Check out #socialmedia and chat with your labmates for ideas. You can schedule posts for your LinkedIn or Twitter.
+  * [ ] Post something new **every day in** your [working diary](https://darl-lab.gitbook.io/handbook/policies/project-management#working-diary). Check out #socialmedia and chat with your labmates for ideas. You can schedule posts for your LinkedIn or Twitter.
 * [ ] Read 3 papers a day, you could choose any paper that interests you, going viral right now or is related to your research, hopefully from top conferences/journals or research groups.
 * [ ] Read and respond to any new bug reports from GitHub
 
 ## Meetings & seminars
 
-### 🤝 Weekly Syncs
+### Individual Meeting
+
+Individual meetings are typically held weekly or biweekly to provide personalized guidance and support for your research progress. These meetings are crucial for discussing your specific tasks, addressing challenges, and ensuring alignment with lab goals.&#x20;
+
+**Meeting Preparation:** Prepare a [concise slide deck](https://darl-lab.gitbook.io/handbook/policies/project-management#individual-project-meeting-slides) to structure the discussion.
+
+Remember, individual meetings are for your benefit—come prepared to make the most of this dedicated time!
+
+### 🤝 Group Weekly Syncs
 
 Lab meetings are usually held weekly or biweekly. Graduate students, lab staff, and undergraduate students taking research for credit are expected to attend all lab meetings and to arrive prepared (i.e., having read any assigned papers before the lab meeting). If you can't attend a meeting, you must let Hua know ahead of time. Lab meeting topics (including any readings) will be announced weekly in advance via Slack `#sharing` .
 
