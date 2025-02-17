@@ -55,6 +55,7 @@
   * [AI for research writing](resources/paper-tips/ai-for-research-writing.md)
   * [Scientific Pictures](resources/paper-tips/scientific-pictures.md)
   * [Rules of thumb for writing research articles](resources/paper-tips/rules-of-thumb-for-writing-research-articles.md)
+* [How to Respond to Reviewers Effectively: Good vs. Bad Rebuttal Responses](resources/how-to-respond-to-reviewers-effectively-good-vs.-bad-rebuttal-responses.md)
 * [🧰 Things you may need](resources/things-you-may-need.md)
 * [💡 The Scientific Workflow](resources/the-scientific-workflow.md)
 

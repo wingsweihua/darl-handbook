@@ -1,0 +1,13 @@
+# How to Respond to Reviewers Effectively: Good vs. Bad Rebuttal Responses
+
+More related tips on [rebuttal](paper-tips/writing-tips-for-top-conference-papers-series-on-zhihu/writing-tips-for-top-conference-papers-part-3-rebuttal.md).&#x20;
+
+In the rebuttal stage of a paper review, effectively addressing reviewers' comments is crucial. Below is a comparison of typical reviewer comments along with high and low emotional intelligence (EI) responses.
+
+
+
+| **Reviewer Comment**                                                                                                                                  | **Low EI Response**                                                                                               | **High EI Response**                                                                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **"The theoretical implication does not answer the so-what question."** 【Your theoretical contribution is unclear in terms of practical significance】 | _"Our contributions are …"_ 【Repeats original content without enhancement】                                        | _"We have revised this section to clearly highlight our contributions. Specifically, we extend the literature by…"_ 【Modification made, emphasizing specific contributions】 |
+| **"The practical implication section is too general and vague."** 【Lacks concrete suggestions】                                                        | _"We believe practitioners will find our suggestions helpful."_ 【Defensive response without addressing the issue】 | _"We have revised the section to provide more actionable suggestions for practitioners. Specifically…"_ 【Clarifies improvements and provides practical insights】            |
+| **"Some of your practical implications are not based on the results of your study."** 【Your suggestions are not directly linked to study findings】    | _"The suggestions are indirectly related to the results."_ 【Fails to acknowledge the problem directly】            | _"You raised a valid point. We have added suggestions directly based on our findings."_ 【Acknowledges the issue and modifies accordingly】                                   |
