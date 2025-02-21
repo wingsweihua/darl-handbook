@@ -89,8 +89,8 @@ Our lab follows a flexible approach to sharing data, materials, and code, recogn
   * In general, co-authors **participate in discussions with the first author and respect their arrangements**. However, co-authors are always encouraged to contribute more and seek accountability in the author list. If a co-author's contributions surpass those of others, and they take on first-author responsibilities, they may rightfully become the first author.
 * In most cases, Hua's involvement in research conducted using lab resources (e.g., lab computers or software) makes her an author on resulting manuscripts. However, there are exceptions when students collaborate with other researchers, which is highly encouraged! In such cases, the following points should be considered:
   * (a) Discuss the authorship arrangement with Hua ahead of time if collaborating with other researchers.&#x20;
-  * (b) If Hua is not a co-author on a particular project, do not assume that she will provide guidance or feedback for that project.&#x20;
-  * (c) Hua will not serve as the IRB supervisor for projects in which she is not directly involved.
+  * (b) If Hua is not a co-author on a particular project, do not assume that he will provide guidance or feedback for that project.&#x20;
+  * (c) Hua will not serve as the IRB supervisor for projects in which he is not directly involved.
 * Undergraduate and Master Interns are acknowledged by name for their valuable contributions to projects, such as testing studies and collecting data. If an intern's involvement goes beyond typical work and they make significant intellectual contributions, they may be considered as co-authors. We value everyone's contributions and encourage open discussions about authorship to ensure proper recognition and credit. Keep up the great work!
 
 #### Notifying co-authors of research products

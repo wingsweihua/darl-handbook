@@ -1,6 +1,6 @@
 # How to Respond to Reviewers Effectively: Good vs. Bad Rebuttal Responses
 
-More related tips on [rebuttal](paper-tips/writing-tips-for-top-conference-papers-series-on-zhihu/writing-tips-for-top-conference-papers-part-3-rebuttal.md).&#x20;
+More related tips on [rebuttal](writing-tips-for-top-conference-papers-series-on-zhihu/writing-tips-for-top-conference-papers-part-3-rebuttal.md).&#x20;
 
 In the rebuttal stage of a paper review, effectively addressing reviewers' comments is crucial. Below is a comparison of typical reviewer comments along with high and low emotional intelligence (EI) responses.
 
