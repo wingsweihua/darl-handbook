@@ -22,10 +22,14 @@ layout:
 ## Required readings for all new lab members
 
 * [Style: Ten lessons in clarity and grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416) by Joseph Williams. (Any edition)
-* [57 Ways to Screw Up in Grad School](https://press.uchicago.edu/ucp/books/book/chicago/Other/bo20832370.html) by Kevin D. Haggerty and Aaron Doyle.&#x20;
-* [The Ph.D. Grind: A Ph.D. Student Memoir](https://www.reddit.com/r/GradSchool/comments/hovzd1/does\_anybody\_still\_have\_the\_pdf\_copy\_of\_the\_phd/) by Philip J. Guo.&#x20;
+* [10 Easy Ways to Fail a Ph.D.](https://matt.might.net/articles/ways-to-fail-a-phd/) (Matt Might)&#x20;
 * [A Survival Guide to a PhD](https://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy.&#x20;
-* [Advice Collection](https://web.ece.ucsb.edu/\~yuanxie/Advice.html) by Tao Xie and Yuan Xie.&#x20;
+
+**Recommended** **readings**:&#x20;
+
+* [57 Ways to Screw Up in Grad School](https://press.uchicago.edu/ucp/books/book/chicago/Other/bo20832370.html) by Kevin D. Haggerty and Aaron Doyle.&#x20;
+* [The Ph.D. Grind: A Ph.D. Student Memoir](https://www.reddit.com/r/GradSchool/comments/hovzd1/does_anybody_still_have_the_pdf_copy_of_the_phd/) by Philip J. Guo.&#x20;
+* [Advice Collection](https://web.ece.ucsb.edu/~yuanxie/Advice.html) by Tao Xie and Yuan Xie.&#x20;
 
 ### More lab papers
 
