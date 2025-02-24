@@ -71,14 +71,18 @@ If you need me to do something for you in time for a deadline (like edit your co
 * For something with a hard deadline that does require substantial work, like writing a letter of recommendation or editing a grant proposal, I need **at least two weeks' notice.**
 * For anything requiring lots of back-and-forth, like manuscripts, grad school applications, etc, **give me as much notice as possible.**
 
-Also, when we're in a particularly busy time in the lab, it can be helpful to set arbitrary deadlines for getting things done. We usually do this in the darllab-status board. Feel free to set these for me, just as I'll set them for you.
+Also, when we're particularly busy in the lab, setting arbitrary deadlines for getting things done can be helpful. We usually do this in the darllab-status board. Feel free to set these for me, just as I'll set them for you.
 
 ### Letters of recommendation
 
-Let me know if you are applying to graduate school, postdocs, or grants that require a letter of recommendation. In general I am happy to write these for all members of the lab. For some students and RAs, it makes sense to do a co-signed letter with a lab manager, since the lab manager has often worked with you more directly than I have. We'll sort this out when you ask for a letter.
+Let me know if you are applying to graduate school, postdocs, or grants that require a letter of recommendation. In general, I am happy to write these for all members of the lab. For some students and RAs, it makes sense to co-sign a letter with a senior PhD/Post-doc since they have often worked with you more directly than I have. We'll sort this out when you ask for a letter.
 
 For most letters, it will be helpful if you provide a CV, instructions about the content of the letter, and information about what you're applying for.
 
+{% hint style="warning" %}
+It is a fabrication to submit a recommendation letter without the content of recommenders.
+{% endhint %}
+
 ## Becoming a thesis student
 
-Many of my undergrad/master thesis students began their work in my lab as RAs or volunteers. If you think you might want to do a thesis under the aegis of my lab, let me know! The best way to make this happen is (1) to do a fantastic job with your RA duties; and (2) to chat with me early and often about project ideas. It's quite often that a student's thesis project ideas overlap substantially with research that's already happening in the lab, which is great — it means that a thesis project will be very strong on its own, and can often result in a publication for the student. For example, several of the authors of papers in the [Reading list](../resources/readings.md) worked with me as thesis students, and their projects were published as part of larger papers.
+Many of my undergrad/master thesis students began their work in my lab as RAs or volunteers. If you think you might want to do a thesis under the aegis of my lab, let me know! The best way to make this happen is (1) to do a fantastic job with your RA duties, and (2) to chat with me early and often about project ideas. It's quite often that a student's thesis project ideas overlap substantially with research that's already happening in the lab, which is great — it means that a thesis project will be very strong on its own, and can often result in a publication for the student. For example, several of the authors of papers in the [Reading list](../resources/readings.md) worked with me as thesis students, and their projects were published as part of larger papers.

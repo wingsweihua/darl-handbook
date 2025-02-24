@@ -58,11 +58,15 @@ In the realm of science, mistakes are a natural part of the process. We understa
 
 We maintain a zero-tolerance stance towards research misconduct, such as fabrication, falsification, plagiarism, or violating journal policies on data, materials, and code sharing. ASU's policies [here](https://researchintegrity.asu.edu/responsible-conduct) on research conduct provide further insights. If you ever feel pressured to achieve success to the point where you contemplate engaging in research misconduct, please reach out to Hua immediately. We will adjust your workload to alleviate any undue pressure.
 
+{% hint style="warning" %}
+It is a fabrication to submit a letter without the content of recommenders/co-authors.
+{% endhint %}
+
 ### Commitment to Open Science&#x20;
 
-Our approach to open science is straightforward: we strive to share all data, materials, and code upon posting a preprint or publishing a paper, whenever feasible. In some instances, constraints may prevent immediate sharing, such as legal obligations or the need to avoid being preempted before publication. In such cases, explicit permission from Hua is essential before posting any data, materials, or code publicly.
+Our approach to open science is straightforward: we strive to share all data, materials, and code upon posting a preprint or publishing a paper whenever feasible. In some instances, constraints may prevent immediate sharing, such as legal obligations or the need to avoid being preempted before publication. In such cases, explicit permission from Hua is essential before posting any data, materials, or code publicly.
 
-We follow a standard practice of posting preprints of articles on platforms like Arxiv simultaneously with conference submissions, whenever possible. However, adherence to this practice may be subject to specific circumstances.
+We follow a standard practice of posting preprints of articles on platforms like Arxiv simultaneously with conference submissions whenever possible. However, adherence to this practice may be subject to specific circumstances.
 
 #### Reproducibility
 
@@ -87,7 +91,7 @@ Our lab follows a flexible approach to sharing data, materials, and code, recogn
 * Responsibility of other co-authors:
   * Co-authors play a crucial role in our research journey. They actively engage in idea generation, research design, data collection, analysis, and manuscript drafting. Collaboration and communication are key!
   * In general, co-authors **participate in discussions with the first author and respect their arrangements**. However, co-authors are always encouraged to contribute more and seek accountability in the author list. If a co-author's contributions surpass those of others, and they take on first-author responsibilities, they may rightfully become the first author.
-* In most cases, Hua's involvement in research conducted using lab resources (e.g., lab computers or software) makes her an author on resulting manuscripts. However, there are exceptions when students collaborate with other researchers, which is highly encouraged! In such cases, the following points should be considered:
+* In most cases, Hua's involvement in research conducted using lab resources (e.g., lab computers or software) makes his an author of resulting manuscripts. However, there are exceptions when students collaborate with other researchers, which is highly encouraged! In such cases, the following points should be considered:
   * (a) Discuss the authorship arrangement with Hua ahead of time if collaborating with other researchers.&#x20;
   * (b) If Hua is not a co-author on a particular project, do not assume that he will provide guidance or feedback for that project.&#x20;
   * (c) Hua will not serve as the IRB supervisor for projects in which he is not directly involved.
@@ -113,10 +117,10 @@ Here are a few general guidelines about these situations:
 
 #### &#x20;Presentation with talks and posters
 
-* If you are interested in presenting work on which you collaborate with others, you should get their approval before moving forward with plans for presentation. In situations where more than one collaborator wants to present the same data, the first author generally has priority, though collaborating and turn-taking is always preferable.
+* If you are interested in presenting work on which you collaborate with others, you should get their approval before moving forward with plans for presentation. In situations where more than one collaborator wants to present the same data, the first author generally has priority, though collaborating and turn-taking are always preferable.
 * If you are presenting on a specific paper, the co-authors of that paper should be offered authorship on the presentation.
 * If you are presenting on multiple papers and someone is a co-author of most or all of those papers, that person should be offered authorship on the presentation.
-* If you are presenting on multiple papers, each with unique authors, you should acknowledge co-authors as collaborators, but do not need to offer them co-authorship.
+* If you are presenting multiple papers, each with unique authors, you should acknowledge co-authors as collaborators but do not need to offer them co-authorship.
 * A very general rule of thumb for talk and poster authorship is that you should offer authorship to anyone who is a collaborator on at least 60% of the results you present.
 
 ## Reporting
