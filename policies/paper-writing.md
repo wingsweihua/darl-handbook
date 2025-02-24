@@ -22,12 +22,17 @@ layout:
 
 * As a leading author, please highlight everyone’s contribution in time (not right before paper submission) so others know they have actually contributed along the way - that’s teamwork.&#x20;
   * What is considered a contribution?
-    * Discussions should not be counted as contributions, implementation/theoretically-sound ideas could be.&#x20;
-    * Same for writing - proof-reading should not be counted as contributions, actual writing could be
+    * Discussions should not be counted as contributions; implementation/theoretically sound ideas could be.&#x20;
+    * Same for writing - proof-reading should not be counted as contributions; actual writing could be.
   * Also, if you contributed to anyone’s project, ask them to recognize your contribution in time if they did not.
+
+{% hint style="success" %}
+All the co-authors are strongly encouraged to [read the paper writing tips](https://darl-lab.gitbook.io/handbook/resources/paper-tips/paper-writing-tips-in-darl-lab) when preparing the manuscripts
+{% endhint %}
+
 * **Once a plan for submission to a conference is confirmed**, the (lead) student should create an **overleaf** and invite immediately to Hua as a co-owner of the overleaf project. &#x20;
 * **14 days before the deadline**, a manuscript should be ready for collaborating students to review.
-  * The lead author should read the requirements (call for papers) and **create a submission on the conference submission site** - this is very important since some conference has abstract submission deadlines.  The submission is not necessarily an ideal version)
+  * The lead author should read the requirements (call for papers) and **create a submission on the conference submission site** - this is very important since some conferences have abstract submission deadlines.  The submission is not necessarily an ideal version)
   * Within the 14 days, the lead author should make sure **there is at least one thorough read of the manuscript per day**. This could be done collaboratively by different people across different days.&#x20;
 * **7 days before the deadline**, the manuscript should be ready for Hua to review. At this time：
   * All typos and obvious errors should be eliminated.
