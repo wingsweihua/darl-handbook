@@ -34,7 +34,7 @@ For **long-time team members**, this space will act as a reminder and allow you 
 
 <summary>How to use it?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
+This space is designed to be read linearly, so start with our Vision, Mission, & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to. You can also do "searching".
 
 </details>
 
@@ -48,6 +48,6 @@ If you want to contribute changes, start a new change request and submit it for 
 
 
 
-{% hint style="danger" %}
+{% hint style="info" %}
 The content of this Handbook is provided under a Creative Commons Attribution-NonCommercial license (CC BY-NC 4.0). You are free to share and adapt this material under the restrictions described at [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/). Full license documentation is available [here](https://creativecommons.org/licenses/by-nc/4.0/legalcode).&#x20;
 {% endhint %}
