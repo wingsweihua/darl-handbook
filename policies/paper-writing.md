@@ -52,6 +52,8 @@ All the co-authors are strongly encouraged to [read the paper writing tips](http
 * **One hour before the deadline**, finish the following checklist:
   * [ ] Shorten the sentence so that there isn't just one word in a line. (缩短句子，让一行里不要只有一个词)
   * [ ] Run a Grammarly/ChatGPT check to catch typos. (grammarly check一遍typo)
+    * [ ] ASU offers us a free Grammarly for Education Premium account. Helpful for paper writing!\
+      [https://tutoring.asu.edu/expanded-writing-support](https://tutoring.asu.edu/expanded-writing-support)
     * [ ] Sample prompts: I just want a grammar/spelling check, you should just ensure the grammar and spelling are correct. Do not try to improve the text, if no mistake is found, tell me that this paragraph is good. if you find grammar or spelling mistakes, please list the mistakes you find in a three-column markdown table, with each sentence per row, put the original text, the corrected text, and (explanations in Chinese) about what you fixed in three columns respectively.
   * [ ] Verify all abbreviations to ensure their full forms are provided before their first usage. (检查所有的缩写，第一次出现之前是不是有全称)
     * [ ] Remember, in formal writing, "can't" cannot be abbreviated; it should be written as "cannot" without a space between "can" and "not".  (Can't不能缩写，要写成cannot)
