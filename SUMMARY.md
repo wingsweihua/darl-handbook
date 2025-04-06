@@ -37,6 +37,7 @@
 * [📚 Readings](resources/readings.md)
 * [🖌️ Paper Tips](resources/paper-tips/README.md)
   * [Paper writing tips in DaRL Lab](resources/paper-tips/paper-writing-tips-in-darl-lab.md)
+  * [Paper rebuttal tips in DaRL Lab](resources/paper-tips/paper-rebuttal-tips-in-darl-lab.md)
   * [AI for research writing](resources/paper-tips/ai-for-research-writing.md)
   * [Rules of thumb for writing research articles](resources/paper-tips/rules-of-thumb-for-writing-research-articles.md)
   * [Writing a Short Research Proposal as a Student](resources/paper-tips/writing-a-short-research-proposal-as-a-student.md)
