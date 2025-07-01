@@ -41,7 +41,8 @@ All the co-authors are strongly encouraged to [read the paper writing tips](http
     * Page shrinking tips:
       * [ ] Shrink the lines with only one word.
       * [ ] Shink the Table/Figures while making sure it's readable on the A4 page.
-      * [ ] `\vspace{}` should be the **last thing** you use to shrink your number of pages.&#x20;
+      * [ ] `\vspace{}` should be the **last thing** you use to shrink your number of pages.
+  * Go through [the paper checklist](https://github.com/yzhao062/cs-paper-checklist).&#x20;
   * Based on the quality of the manuscript, Hua is likely to organize an **internal paper review session** with invited participants (group members, collaborating faculties, or other people).
     * One day before the review session, the lead author should send out a pdf version to everyone.&#x20;
       * Invited participants have to read the papers (in a **paper version**) before the meeting and bring the commented papers to the session.&#x20;
