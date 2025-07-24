@@ -2,20 +2,6 @@
 cover: >-
   https://www.azwater.gov/sites/default/files/styles/banner_image/public/Article_banner_drought_2019_0.jpg?itok=wEggpjOT
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🏠 Day-to-day expectations
@@ -69,7 +55,7 @@ These rules apply to all external communication (social media, phone, etc); see 
 
 You can expect the lab to cover the costs of all research equipment and supplies, including computers for use in the lab (and sometimes laptops for using outside the lab, depending on your role); coffee, tea, water, and snacks; and more substantial food now and then, including for advising meetings.
 
-From time to time, we can fund students' travel to conferences to present research. This funding is generally reserved for senior thesis students, grad students, postdocs, and staff, but exceptions can be made. **If you have papers accepted, you should always try applying for travel grants from your conference > SCAI > our group**.
+From time to time, we can fund students' travel to conferences to present research. This funding is generally reserved for senior thesis students, grad students, postdocs, and staff, but exceptions can be made. **If you have papers accepted, you should always try applying for travel grants from your conference > SCAI > our group**. Take a look at the [Attending Conferences](https://darl-lab.gitbook.io/handbook/policies/attending-conferences) section.
 
 All lab members are encouraged to seek out and apply for grants regularly. Hua is always happy to help you to write grant proposals; just ask.
 

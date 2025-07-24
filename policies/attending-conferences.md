@@ -2,31 +2,17 @@
 cover: >-
   https://media.licdn.com/dms/image/D4D12AQFN72yhOGlcSA/article-cover_image-shrink_600_2000/0/1657022799824?e=2147483647&v=beta&t=p8ZZpiJe7rP4p3ItlcJ3PplZeSqVuLlYYyjggmuxl6s
 coverY: 109
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👔 Attending Conferences
 
-From time to time, we can fund students' travel to conferences to present research. This funding is generally reserved for senior thesis students, grad students, postdocs, and staff, but exceptions can be made. **If you have papers accepted, you should always try applying for travel grants from your conference > SCAI > our group**.
+From time to time, we can fund students' travel to conferences to present research. This funding is generally reserved for senior thesis students, grad students, postdocs, and staff, but exceptions can be made. **If you have papers accepted, you should always try applying for travel grants from your conference > SCAI > our group**.&#x20;
 
 
 
 Before the conference:
 
-* [ ] Settle down all the money issues
+* [ ] Right after the acceptance, settle all the money issues. Here is [a list of travel grants you can apply for in ASU/SCAI ](https://docs.google.com/document/d/18G1fViXq-tXF7Z0wWcApzgD42JLZ0cs_gxvepK5iZAg/edit?usp=drivesdk)(Thanks to Kuan-Ru!).
 * [ ] One month before the conference, prepare your slides and posters for the presentation.&#x20;
   * [ ] Bring your slides to your individual meeting with Hua and arrange for a presentation
 * [ ] Two weeks before the conference, finalize your posters and prepare to print - and you need to bring them back after the conference
