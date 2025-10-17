@@ -83,4 +83,4 @@ I am a first-year PhD student at Arizona State University, working under the men
 
 ### Alumni
 
-\[list of alumni here; this is kept updated on [Hua's website](https://www.public.asu.edu/~hwei27/people.html)]
+\[list of alumni here; this is kept updated on [Hua's website](https://labs.engineering.asu.edu/hw/students/)]
