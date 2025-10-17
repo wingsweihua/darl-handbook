@@ -2,20 +2,6 @@
 cover: >-
   https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Meet the Team!
@@ -24,11 +10,11 @@ layout:
 **GitBook tip:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
 {% endhint %}
 
-## [Hua Wei](https://www.public.asu.edu/\~hwei27/)
+## [Hua Wei](https://www.public.asu.edu/~hwei27/)
 
 👋 PI —  :rainbow: hua.wei@asu.edu — 🇺🇸 Phoenix (GMT-7)
 
-![](https://www.public.asu.edu/\~hwei27/images/header-2.jpg)
+![](https://www.public.asu.edu/~hwei27/images/header-2.jpg)
 
 ### Bio
 
@@ -46,7 +32,7 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 👋 Ph.D student— 💌 longchao@asu.edu — 🇺🇸 Phoenix (GMT-7)
 
-![](https://static.wixstatic.com/media/7b9c5f\_74ef5a40edea4c6abccc0a6c7e0a2bfe\~mv2.jpeg/v1/crop/x\_0,y\_207,w\_1240,h\_1240/fill/w\_960,h\_960,al\_c,q\_85,usm\_0.66\_1.00\_0.01,enc\_auto/better.jpeg)
+![](https://static.wixstatic.com/media/7b9c5f_74ef5a40edea4c6abccc0a6c7e0a2bfe~mv2.jpeg/v1/crop/x_0,y_207,w_1240,h_1240/fill/w_960,h_960,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/better.jpeg)
 
 ### Bio
 
@@ -64,9 +50,7 @@ I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my ba
 
 ## [Tiejin Chen](https://tiejin98.github.io/)
 
-👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
-
-<figure><img src="../.gitbook/assets/picture_tj.jpg" alt=""><figcaption></figcaption></figure>
+👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-
 
 ### Bio
 
@@ -82,15 +66,15 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
 
-## [Justin Turnau](https://justinturnau.github.io/)
+## Huaiyuan Yao
 
-👋 Ph.D. student — 💌jturnau@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
+👋 Ph.D. student — 💌huaiyuan@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
-<figure><img src="../.gitbook/assets/IMG_9759.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-10-17 at 2.31.13 PM.png" alt="" width="237"><figcaption></figcaption></figure>
 
 ### Bio
 
-I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from the University of Cincinnati. My research focuses on Reinforcement Learning, with a particular emphasis on Multi-Agent Reinforcement Learning. Outside of my academic pursuits, I enjoy playing board games and video games, as well as listening to music!
+I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from Xi'an Jiao Tong University. My research focuses on Multi-agent systems, with a particular emphasis on Multi-Agent Reinforcement Learning and LLMs.&#x20;
 
 ## Robots
 
@@ -107,4 +91,4 @@ I am a first-year PhD student at Arizona State University, working under the men
 
 ### Alumni
 
-\[list of alumni here; this is kept updated on [Hua's website](https://www.public.asu.edu/\~hwei27/people.html)]
+\[list of alumni here; this is kept updated on [Hua's website](https://www.public.asu.edu/~hwei27/people.html)]

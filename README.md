@@ -2,20 +2,6 @@
 description: Welcome to the public version of the DaRL Lab's handbook.
 cover: .gitbook/assets/banner.png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Welcome!

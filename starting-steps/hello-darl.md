@@ -2,20 +2,6 @@
 cover: >-
   https://media.istockphoto.com/id/1142779449/photo/woman-clerk-sitting-holding-note-paper-sticker-with-newbie-word-business-concept-concept.jpg?s=612x612&w=0&k=20&c=Zo-bfno4RTNaEGD6tCi93dk7cO2ODQoLXSQ0bM-MJ-w=
 coverY: 47
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🐦 Hello, DaRL!

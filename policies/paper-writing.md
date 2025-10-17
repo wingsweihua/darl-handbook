@@ -2,20 +2,6 @@
 cover: >-
   https://fastessay.com/blog/wp-content/uploads/2018/06/How-to-Write-a-Research-Paper.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📑 Paper Writing

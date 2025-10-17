@@ -1,20 +1,6 @@
 ---
 cover: https://www.photonics.com/images/Web/Articles/2019/10/7/thumbnail_65183.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🚀 Vision, Mission & Focus

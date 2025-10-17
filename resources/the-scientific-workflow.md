@@ -2,20 +2,6 @@
 cover: >-
   https://png.pngtree.com/thumb_back/fw800/background/20240618/pngtree-rocky-river-fast-flow-of-water-long-exposure-image_15797801.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 💡 The Scientific Workflow

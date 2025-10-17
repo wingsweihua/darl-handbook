@@ -2,20 +2,6 @@
 cover: >-
   https://www.shutterstock.com/image-photo/kanban-project-management-software-on-260nw-2129755877.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🛠️ Project management

@@ -2,20 +2,6 @@
 cover: >-
   https://t4.ftcdn.net/jpg/08/99/57/25/360_F_899572505_SqkNFLTZtYaVMUDqfmqEzhW540GKbWSZ.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 📞 Communication
