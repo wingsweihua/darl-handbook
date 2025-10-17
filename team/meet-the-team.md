@@ -50,7 +50,9 @@ I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my ba
 
 ## [Tiejin Chen](https://tiejin98.github.io/)
 
-👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-
+👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
+
+<figure><img src="../.gitbook/assets/picture_tj.jpg" alt=""><figcaption></figcaption></figure>
 
 ### Bio
 
@@ -66,15 +68,15 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
 
-## Huaiyuan Yao
+## [Justin Turnau](https://justinturnau.github.io/)
 
-👋 Ph.D. student — 💌huaiyuan@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
+👋 Ph.D. student — 💌jturnau@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-10-17 at 2.31.13 PM.png" alt="" width="237"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_9759.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Bio
 
-I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from Xi'an Jiao Tong University. My research focuses on Multi-agent systems, with a particular emphasis on Multi-Agent Reinforcement Learning and LLMs.&#x20;
+I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from the University of Cincinnati. My research focuses on Reinforcement Learning, with a particular emphasis on Multi-Agent Reinforcement Learning. Outside of my academic pursuits, I enjoy playing board games and video games, as well as listening to music!
 
 ## Robots
 
