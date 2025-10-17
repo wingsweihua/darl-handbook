@@ -38,23 +38,13 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 I'm a CS Ph.D. student at Arizona State University, where I am under the guidance of Prof. Hua Wei. Prior to this, I served as a research assistant at the New Jersey Institute of Technology. My academic focus centers on the trustworthy LLMs, Reinforcement Learning and Data Mining, and I am deeply committed to exploring their real-world applications. Apart from my research pursuits, Music and Workout are my favorite!
 
-## [Jiaxing Zhang](https://tabzhangjx.github.io/)
-
-👋 Ph.D. student — 💌jz48@njit.edu — Currently 🇺🇸 Newark (GMT-4)
-
-<figure><img src="../.gitbook/assets/a.png" alt="" width="188"><figcaption></figcaption></figure>
-
-### Bio
-
-I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my bachelor's degree in computer science from Xi’an Jiaotong University in 2020. I’m currently doing my Ph.D. study, (co-)supervised by Prof. Hua Wei. My research focuses on data mining (Explainable AI), deep learning (LLM), and natural language processing (code analysis).
-
 ## [Tiejin Chen](https://tiejin98.github.io/)
 
 👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-
 
 ### Bio
 
-I am an CS Ph.D. student at Arizona State University, where I am supervised by Prof. Hua Wei. Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor in 2023. My research interests lie in efficient machine learning and reinforcement learning.
+I am a Ph.D. student at Arizona State University, where I am supervised by Prof. Hua Wei. Prior to this, I obtained my bachelor's degree in statistics from Sichuan University in 2020 and my master's degree in applied statistics from the University of Michigan, Ann Arbor, in 2023. My research interests lie in efficient machine learning and reinforcement learning.
 
 ## [Xiaoou Liu](https://xiao0o0o.github.io/)
 
@@ -64,7 +54,7 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 ### Bio
 
-I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
+I am a Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
 
 ## Huaiyuan Yao
 
