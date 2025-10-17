@@ -10,7 +10,7 @@ coverY: 0
 **GitBook tip:** an employee directory can be a great way to help new folks get familiar with everyone they're going to be working with.
 {% endhint %}
 
-## [Hua Wei](https://www.public.asu.edu/~hwei27/)
+## [Hua Wei](https://labs.engineering.asu.edu/hw/)
 
 👋 PI —  :rainbow: hua.wei@asu.edu — 🇺🇸 Phoenix (GMT-7)
 
