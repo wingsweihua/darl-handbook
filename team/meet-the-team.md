@@ -38,16 +38,6 @@ Before joining ASU, he worked as an Assistant Professor at the New Jersey Instit
 
 I'm a CS Ph.D. student at Arizona State University, where I am under the guidance of Prof. Hua Wei. Prior to this, I served as a research assistant at the New Jersey Institute of Technology. My academic focus centers on the trustworthy LLMs, Reinforcement Learning and Data Mining, and I am deeply committed to exploring their real-world applications. Apart from my research pursuits, Music and Workout are my favorite!
 
-## [Jiaxing Zhang](https://tabzhangjx.github.io/)
-
-👋 Ph.D. student — 💌jz48@njit.edu — Currently 🇺🇸 Newark (GMT-4)
-
-<figure><img src="../.gitbook/assets/a.png" alt="" width="188"><figcaption></figcaption></figure>
-
-### Bio
-
-I am a Ph.D. student at the New Jersey Institute of Technology. I obtained my bachelor's degree in computer science from Xi’an Jiaotong University in 2020. I’m currently doing my Ph.D. study, (co-)supervised by Prof. Hua Wei. My research focuses on data mining (Explainable AI), deep learning (LLM), and natural language processing (code analysis).
-
 ## [Tiejin Chen](https://tiejin98.github.io/)
 
 👋 Ph.D. student — 💌tiejin@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
@@ -68,15 +58,15 @@ I am an CS Ph.D. student at Arizona State University, where I am supervised by P
 
 I am a first-year Ph.D. student in Computer Science at Arizona State University (ASU), working under the supervision of Professor Hua Wei. Previously, I obtained my Bachelor's degree from Beijing Jiaotong University and my Master's degree from the University of British Columbia (UBC), Okanagan Campus, under the guidance of Professor [Yong Gao](https://cmps-people.ok.ubc.ca/yongg/). My current interests lie in the Trustworthy Graph Neural Networks and various graph-based applications. If you have similar research interests, I’d be happy to connect and discuss ideas!
 
-## [Justin Turnau](https://justinturnau.github.io/)
+## Huaiyuan Yao <a href="#huaiyuan-yao" id="huaiyuan-yao"></a>
 
-👋 Ph.D. student — 💌jturnau@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
+👋 Ph.D. student — 💌huaiyuan@asu.edu— Currently 🇺🇸Phoenix (GMT-7)
 
-<figure><img src="../.gitbook/assets/IMG_9759.jpg" alt="" width="375"><figcaption></figcaption></figure>
+<p align="center"><img src="https://open-2c.gitbook.com/url/preview/site_Vivjp/~gitbook/image?url=https%3A%2F%2F4284633824-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYupq30GiLbkqhpxAt5B1%252Fuploads%252F7Jc6RoG4zByMN5qmHzqO%252FScreenshot%25202025-10-17%2520at%25202.31.13%25E2%2580%25AFPM.png%3Falt%3Dmedia%26token%3De8ade89b-5a33-4bb6-bb5d-d7a96dad1933&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=daff179&#x26;sv=2" alt=""></p>
 
-### Bio
+### Bio <a href="#bio-5" id="bio-5"></a>
 
-I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from the University of Cincinnati. My research focuses on Reinforcement Learning, with a particular emphasis on Multi-Agent Reinforcement Learning. Outside of my academic pursuits, I enjoy playing board games and video games, as well as listening to music!
+I am a first-year PhD student at Arizona State University, working under the mentorship of Dr. Hua Wei. I earned my bachelor's degree in computer science from Xi'an Jiao Tong University. My research focuses on Multi-agent systems, with a particular emphasis on Multi-Agent Reinforcement Learning and LLMs.
 
 ## Robots
 
