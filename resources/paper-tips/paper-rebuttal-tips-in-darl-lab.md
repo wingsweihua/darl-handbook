@@ -11,7 +11,7 @@
 
 
 
-Some templates:
+The following template is from Stephen Casper:
 
 
 
