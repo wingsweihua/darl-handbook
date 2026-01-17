@@ -8,7 +8,7 @@ coverY: 47
 
 If you are new here, this is the very first steps you need to do:
 
-* [ ] Ensuring that both you and your labmates have familiarized yourselves with our lab policies is crucial. ~~To establish this shared understanding, please **post the following message to #darllab-status on Trello after reviewing the**~~ [~~**Lab Policies**~~](broken-reference) ~~**section**~~. If you have any queries about the policies, feel free to ask before making the post.
+* [ ] Ensuring that both you and your labmates have familiarized yourselves with our lab policies is crucial. ~~To establish this shared understanding, please **post the following message to #darllab-status on Trello after reviewing the**~~ [~~**Lab Policies**~~](/broken/pages/hgdOouVcUq6nmLcwFEux) ~~**section**~~. If you have any queries about the policies, feel free to ask before making the post.
   * > I have read and understand all the Lab Policies. I agree to abide by them at all times while working in or collaborating with the DaRL Lab.&#x20;
 * [ ] Check whether you have access to the following channels and resources for[ project management](../policies/project-management.md). We use Email and Slack for communication, Google Drive for archiving, and sometimes (rarely) phone calls for emergencies. **You should ask Hua for their links when you join the group**.
   * [ ] Email for official communications and letters
@@ -20,6 +20,7 @@ If you are new here, this is the very first steps you need to do:
   * [ ] Building access: Submit your request [here](https://ets.engineering.asu.edu/keyless-door-entry-system-isaac/).
 * [ ] Set up your calendars on [your phone](https://support.apple.com/guide/iphone/use-multiple-calendars-iph3d1110d4/ios) or Outlook, mark all the next three meetings on your calendar, and set up reminders for those meetings.
 * [ ] Have a [well-structured personal website](https://academicpages.github.io/) and ask Hua to link you on his website.&#x20;
+* [ ] Commit a GitHub merge request to [this repo](https://github.com/wingsweihua/darl-handbook) and add yourself on the [meet-the-team.md](../team/meet-the-team.md "mention") page.
 * [ ] Once you have something indexed or published, create and maintain a **Google scholar page**. You can link to your co-authors accounts and follow other accounts.
 * [ ] Maintain an up-to-date CV on your primary, personal machine but ensure that a current copy is also stored in the CV Workshop folder in the lab Google Drive, so that it can be included on our website.
 * [ ] Read the[ required readings](../resources/readings.md) in time
