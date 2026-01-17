@@ -20,7 +20,7 @@ For **long-time team members**, this space will act as a reminder and allow you 
 
 <summary>How to use it?</summary>
 
-This space is designed to be read linearly, so start with our Vision, Mission, & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to. You can also do "searching".
+This space is designed to be read linearly, so start with our Vision, Mission, & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to. You can also do "searching" or chat with the [AI Bot](https://app.aiml.asu.edu/38da6ee238e6433aa7b8de6fb98056ca) that Hua built.
 
 </details>
 
