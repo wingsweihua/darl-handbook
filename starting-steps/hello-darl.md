@@ -22,7 +22,7 @@ If you are new here, this is the very first steps you need to do:
 * [ ] Have a [well-structured personal website](https://academicpages.github.io/) and ask Hua to link you on his website.&#x20;
 * [ ] Commit a GitHub merge request to [this repo](https://github.com/wingsweihua/darl-handbook) and add yourself on the [meet-the-team.md](../team/meet-the-team.md "mention") page.
 * [ ] Once you have something indexed or published, create and maintain a **Google scholar page**. You can link to your co-authors accounts and follow other accounts.
-* [ ] Maintain an up-to-date CV on your primary, personal machine but ensure that a current copy is also stored in the CV Workshop folder in the lab Google Drive, so that it can be included on our website.
+* [ ] Maintain an up-to-date CV on your primary, personal machine but ensure that a current copy is also stored in the CV folder in the lab Google Drive (don't know where it is? Ask a senior lab member), so that it can be used by Hua for reference.
 * [ ] Read the[ required readings](../resources/readings.md) in time
 * [ ] L~~ook over the list of ongoing projects on the Trello board of `darl-status`~~&#x20;
 
