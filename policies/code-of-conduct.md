@@ -13,7 +13,7 @@ coverY: 33
 
 ## Behavior
 
-The DaRL Lab maintains a harassment-free and discrimination-free environment. All lab members must adhere to ASU's policies on discrimination and harassment, which can be found [here](https://titleix.harvard.edu/policy). We strictly prohibit any form of verbal or physical harassment or discrimination based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. Additionally, we do not tolerate acts such as intimidation, stalking, following, unauthorized photography or video recording, disrupting talks or events, inappropriate physical contact, or unwelcome sexual attention.
+The DaRL Lab maintains a harassment-free and discrimination-free environment. All lab members must adhere to ASU's policies on discrimination and harassment, which can be found [here](https://www.asu.edu/about/title-ix). We strictly prohibit any form of verbal or physical harassment or discrimination based on gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, or religion. Additionally, we do not tolerate acts such as intimidation, stalking, following, unauthorized photography or video recording, disrupting talks or events, inappropriate physical contact, or unwelcome sexual attention.
 
 ### Photos & videos
 
