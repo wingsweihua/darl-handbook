@@ -1,6 +1,6 @@
 # AI for research writing
 
-
+It is recommended to use Cursor/Claude skills with this repo: [https://github.com/Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing)&#x20;
 
 Prompts:
 
