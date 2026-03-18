@@ -7,17 +7,15 @@ description: >-
 
 # See Your Research Soar with Social Media
 
-[Reference](https://www.springernature.com/gp/see-your-research-soar-with-sharedit/16300856?utm\_source=other\&utm\_medium=other\&utm\_campaign=AEXS\_1\_PF\_ReadCubeEmail)
+[Reference](https://www.springernature.com/gp/see-your-research-soar-with-sharedit/16300856?utm_source=other\&utm_medium=other\&utm_campaign=AEXS_1_PF_ReadCubeEmail)
 
 #### Week One of Publication
 
-**TIP: Follow hashtags related to your research or discipline of study, as well as the accounts of other researchers and scientists. Comment, like, and share posts to attract followers to your social media channels and, in turn, your journal article. Share/re-tweet interesting articles and postings. This should be continued on a daily basis during a designated block of time (20-30 minutes) once or twice a day.**\
-
+**TIP: Follow hashtags related to your research or discipline of study, as well as the accounts of other researchers and scientists. Comment, like, and share posts to attract followers to your social media channels and, in turn, your journal article. Share/re-tweet interesting articles and postings. This should be continued on a daily basis during a designated block of time (20-30 minutes) once or twice a day.**<br>
 
 #### Day 1:
 
-**Facebook**\
-
+**Facebook**<br>
 
 * Add the SharedIt link of your journal article to the Facebook intro of your profile: "Author of the recently published \[ARTICLE NAME] in \[JOURNAL NAME]. Read and share here: \[INSERT SHAREDIT LINK]
 * Post: “My latest research on \[DISCIPLINE NAME] has just been published with @SpringerNature in \[@JOURNALNAME]  \[If journal does not have a Facebook page remove the @ symbol]. Read here: \[INSERT SHAREDIT LINK]
@@ -40,8 +38,7 @@ description: >-
 
 #### Day 8:
 
-**Facebook**\
-
+**Facebook**<br>
 
 * Pull out  2-3 lines of your research that may be interesting to followers and paste it into a publicly shared post.
 * End post with: Read more here: \[INSERT SHAREDIT LINK]
@@ -64,8 +61,7 @@ By now your daily use of social media should have created some organically grown
 
 Here are some more things you can do to further engage your audience:
 
-**Facebook**\
-
+**Facebook**<br>
 
 * Share news articles relevant to your research. This research can be from niche publications or more mainstream, general sources. Link to your article when there are parallels to your research.
 * Example: Click share on the article you wish to discuss. Write: \[PUBLICATION NAME] makes an interesting correlation to my research on \[SUBJECT.] Include a maximum of two sentences of commentary on the article. INSERT SHAREDIT LINK at the end of the posting.
@@ -73,15 +69,14 @@ Here are some more things you can do to further engage your audience:
 * If you would prefer to share a link directly, you can just copy and paste it into a new Facebook post
 * **TIP: Putting two links into a single post is confusing to readers. When you are referencing a link to a news source save your SharedIt link for later by adding it as the first comment on the post. In the comment insert text such as, "Read more about this \[topic] in my latest research paper \[INSERT SHAREDIT LINK]"**
 
-**Twitter**\
-
+**Twitter**<br>
 
 * On tweets of news and science articles relevant to your research, retweet with a link to your research or simply reply on the article.
 * “Interesting point made by \[WRITER]. My research argues \[similarly, differently, small note of commentary]. \[INSERT SHAREDIT LINK]”
 
 ***
 
-#### Week Four of Publication 
+#### Week Four of Publication<br>
 
 **Facebook**
 

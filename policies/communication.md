@@ -30,8 +30,7 @@ Every project gets its own channel (like `#libsignal`). Some projects are large 
 
 In addition to project-specific channels, we have a variety of channels for organizational purposes.\
 `#general` or #random is where we share various thoughts and ideas across the DaRL Lab and EPL, along with interesting new papers, and lab-wide announcements (including lab meeting info).\
-`#sharing` is a private channel where we share posts that are specific to DaRL Lab members (and not necessarily relevant to other members of the workspace).\
-
+`#sharing` is a private channel where we share posts that are specific to DaRL Lab members (and not necessarily relevant to other members of the workspace).<br>
 
 You'll get the hang of what goes where, and if you post something in a funny place, typically an admin will remove it or ask you to repost it elsewhere.
 
@@ -109,7 +108,7 @@ Check voicemail daily to make sure that any calls from research participants are
 
 ### Social media
 
-We try to be as active as possible on social media. The credentials for lab-wide social media accounts are in [Resources](broken-reference); if you are new to the lab, be sure to discuss with a lab manager before you start posting from them.
+We try to be as active as possible on social media. The credentials for lab-wide social media accounts are in [Resources](/broken/pages/-LpeRFGAkZGU0sU0imfD); if you are new to the lab, be sure to discuss with a lab manager before you start posting from them.
 
 {% hint style="info" %}
 In addition to lab accounts, you are more than welcome to use your personal social media accounts to discuss our research — so long as that engagement is positive!

@@ -15,4 +15,4 @@ Creating posters for conference presentations requires careful planning and desi
 5. Print and Mount: Choose high-quality printing to ensure clear images and text. Mount the poster on a sturdy board for display.
 6. Practice: Be prepared to explain your poster to attendees. Practice your presentation to be confident and articulate during the conference.
 
-\
+<br>

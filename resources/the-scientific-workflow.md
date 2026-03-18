@@ -10,11 +10,9 @@ This is a guide for carrying out research in my lab. Keep this workflow in mind 
 
 ## Theory & Reading&#x20;
 
-The first step is theory development and understanding the relationship of our work to the relevant literature. You should keep up with developments in the field using Google Scholar alerts and its recommendations. I check every week and I recommend that you do as well. \
+The first step is theory development and understanding the relationship of our work to the relevant literature. You should keep up with developments in the field using Google Scholar alerts and its recommendations. I check every week and I recommend that you do as well. <br>
 
-
-We want to test the assumptions of the theories in computer science, understand what they predict, test their limitations and contrast with alternative accounts. We’re going to design experiments that help understand the theory, the models, and make refinements and/or reject some aspects of our theorization.\
-
+We want to test the assumptions of the theories in computer science, understand what they predict, test their limitations and contrast with alternative accounts. We’re going to design experiments that help understand the theory, the models, and make refinements and/or reject some aspects of our theorization.<br>
 
 * Use Google Scholar to find updates that are important for your research.
 * Save papers in Mendeley or other bib software and annotate as needed.
@@ -41,13 +39,11 @@ The design comes first and you need to consider the logic of your experiment, wh
 * Document your work and ideas in Google Docs or a note-taking app that you can share.&#x20;
 * Test these experiment protocols often.
 * Develop a script for research assistants who will be helping you carry out the study.
-* Share insights in lab meetings and in the relevant channel in Slack.\
-
+* Share insights in lab meetings and in the relevant channel in Slack.<br>
 
 ## Analysis Plan & Ethics Protocol
 
-This is where we start to formalize things. An analysis plan will link together the hypothesis and the experimental design with the dependent variables and/outcome measures. In this plan, we’ll describe and document how the data will be collected, visualized, analyzed, stored and shared. This plan should describe how we will deal with outlier data, missing data, data from participants who did not complete the experiment correctly, experimenter error, malfunction, etc. This plan can include tentative predictions derived from a model and also a justification of how we intend to analyze and interpret the data. This plan can (and probably should) be pre-registered with [Papers with Code](https://paperswithcode.com/), which is where we’ll plan to share the data we collect with the scientific community. \
-
+This is where we start to formalize things. An analysis plan will link together the hypothesis and the experimental design with the dependent variables and/outcome measures. In this plan, we’ll describe and document how the data will be collected, visualized, analyzed, stored and shared. This plan should describe how we will deal with outlier data, missing data, data from participants who did not complete the experiment correctly, experimenter error, malfunction, etc. This plan can include tentative predictions derived from a model and also a justification of how we intend to analyze and interpret the data. This plan can (and probably should) be pre-registered with [Papers with Code](https://paperswithcode.com/), which is where we’ll plan to share the data we collect with the scientific community. <br>
 
 The analysis plan should describe exactly what we are doing and why and should provide enough information that someone else would be able to reproduce our experiments in their own lab. These will also provide an outline for your eventual method section (ethics protocol) and your results section (analysis plan)
 
@@ -90,8 +86,7 @@ If you are fitting a model to your data, make sure you have the code for the mod
 
 ## Present and explain each iteration
 
-While you are working on your analysis, you should present the work often in lab meetings for the rest of the group and we can discuss the work when we meet individually. The reason to present and discuss often is to keep the ideas and work fresh in your mind by reviewing manageable pieces of it often. If you try to do too much at once, you may miss something or forget to document a step. Go over your work, make sure it's documented, and then work on the new analyses, and repeat. You should be familiar with your data and your analysis so that you can explain it to yourself, to me, to your peers, and eventually anyone who reads your paper.\
-
+While you are working on your analysis, you should present the work often in lab meetings for the rest of the group and we can discuss the work when we meet individually. The reason to present and discuss often is to keep the ideas and work fresh in your mind by reviewing manageable pieces of it often. If you try to do too much at once, you may miss something or forget to document a step. Go over your work, make sure it's documented, and then work on the new analyses, and repeat. You should be familiar with your data and your analysis so that you can explain it to yourself, to me, to your peers, and eventually anyone who reads your paper.<br>
 
 Use the following guidelines for developing:&#x20;
 
@@ -104,12 +99,10 @@ Use the following guidelines for developing:&#x20;
 
 ## Write papers around this flow
 
-The final step is to write a paper that describes your research question, your experimental design, your analysis and your interpretation of what the analysis is. A scientific paper, in my opinion has two important features: \
-
+The final step is to write a paper that describes your research question, your experimental design, your analysis and your interpretation of what the analysis is. A scientific paper, in my opinion has two important features: <br>
 
 1. The paper should be clear and complete. That means it describes exactly what you wanted to find out, how and why you designed your experiment, how you collected your data, how you analyzed your data, what you discovered, and what that means.  Clear and complete also means that it can be used by you or by others to reproduce your experiments.
-2. The paper should be interesting. A scientific paper should be interesting to read. It needs to connect to a testable theory, some problem in the literature, an unexplained observation. It is just as long as it needs to be. \
-
+2. The paper should be interesting. A scientific paper should be interesting to read. It needs to connect to a testable theory, some problem in the literature, an unexplained observation. It is just as long as it needs to be. <br>
 
 I think the best way to generate a good paper is to make good figures. Try to tell the story of your theory, experiment, and results with figures. The paper is really just writing how you made the figues. You might have a theory or model that you can use a figure to explain. You can create clear figures for the experimental design, the task, and the stimuli. Your data figures, that you made according to your analysis plan, will frame the results section and a lot of what you write is telling the reader what they show, how you made them, and what they mean. A scientific paper is writing a narrative for your figures.
 
@@ -125,4 +118,4 @@ The final paper may have several experiments, each around the theme set out in t
 * Upload a clean version of your Python Notebook that describes your analyses and upload it to Github and link to  [Papers with Code](https://paperswithcode.com/).
 
 \
-\
+<br>

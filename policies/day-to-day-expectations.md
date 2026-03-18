@@ -49,7 +49,7 @@ As a member of the DaRL Lab, you are a representative of our organization. That 
 1. Whether you are a new research assistant or a senior graduate student, your actions reflect not only on yourself, but on the lab itself, your labmates and supervisors, the department, the university, and the field writ large. This is true both when you interact with research participants (who are doing us a favor by participating in our research) and scientific colleagues (who are the people who review our papers and grants and are potential future advisors of yours!). As such, it is incumbent on all of us to interact with the outside world with professionalism, enthusiasm, and respect. **This is especially the case when posting publicly on social media, whether from your personal account or from a lab account**.
 2. Some research findings are proprietary and should not be discussed publicly, and in some cases (like when a research paper is about to be published) findings can be strictly embargoed, such that you shouldn't discuss them with _anybody_ outside the lab. If you're ever unsure of whether or not it is OK to share information about a finding — especially on social media — **ask before sharing!**
 
-These rules apply to all external communication (social media, phone, etc); see more details on the [Communication](broken-reference) page.
+These rules apply to all external communication (social media, phone, etc); see more details on the [Communication](/broken/pages/-LpeRFG1tG7GcmV71bIm) page.
 
 ## Money
 

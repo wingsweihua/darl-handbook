@@ -1,5 +1,6 @@
 ---
-coverY: 0
+cover: ../.gitbook/assets/Gemini_Generated_Image_swupsnswupsnswup.png
+coverY: 184.8118421052632
 layout:
   width: default
   cover:

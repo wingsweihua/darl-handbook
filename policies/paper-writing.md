@@ -1,4 +1,5 @@
 ---
+cover: ../.gitbook/assets/Gemini_Generated_Image_po1bi3po1bi3po1b.png
 coverY: 0
 ---
 
