@@ -1,7 +1,5 @@
 ---
-cover: >-
-  https://media.licdn.com/dms/image/D4D12AQFN72yhOGlcSA/article-cover_image-shrink_600_2000/0/1657022799824?e=2147483647&v=beta&t=p8ZZpiJe7rP4p3ItlcJ3PplZeSqVuLlYYyjggmuxl6s
-coverY: 109
+coverY: 0
 ---
 
 # 👔 Attending Conferences
