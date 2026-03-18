@@ -1,6 +1,4 @@
 ---
-cover: >-
-  https://fastessay.com/blog/wp-content/uploads/2018/06/How-to-Write-a-Research-Paper.jpg
 coverY: 0
 ---
 
