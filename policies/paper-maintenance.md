@@ -28,7 +28,7 @@ Here are some suggestions on how to maintain and promote your published papers b
     2. creates all figures (that aren’t custom powerpoint/gimp figures) in one go.
 6. **(Required) Social media promotion**: Share the links and abstracts of your paper on academic social media platforms such as Twitter, WeChat Moments, LinkedIn, etc. These platforms can help you reach a wider audience in academic and related fields.
 7. **(Required) Update on your websites with blogs**: Post the paper link on your personal academic website with a blog/vlog introducing your research results and important findings. This will help the readers understand your paper faster and attract potential readers.
-8. (Required) Prepare your pitch drafts.&#x20;
+8. (Required) Prepare your pitch drafts following the instruction [here](https://darl-lab.gitbook.io/handbook/resources/paper-tips/pitching-your-research-the-3-tier-framework).
 9. **Proactively search for media collaborations**: If your research findings are of significant public interest, consider collaborating with media outlets to issue press releases or offer to give a talk or interview to attract more attention. Examples include 机器之心, PaperWeekly, etc.
 10. Continuous updates: Keep your paper under continuous attention and update it in response to readers' feedback and comments, as well as follow up on related research progress. This will help expand the influence and visibility of your paper.
 
