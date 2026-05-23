@@ -58,6 +58,7 @@
   * [See Your Research Soar with Social Media](resources/paper-tips/see-your-research-soar-with-social-media.md)
   * [Scientific Pictures](resources/paper-tips/scientific-pictures.md)
   * [How to Respond to Reviewers Effectively: Good vs. Bad Rebuttal Responses](resources/how-to-respond-to-reviewers-effectively-good-vs.-bad-rebuttal-responses.md)
+  * [Pitching Your Research: The 3-Tier Framework](resources/paper-tips/pitching-your-research-the-3-tier-framework.md)
 * [🧰 Things you may need](resources/things-you-may-need.md)
 * [💡 The Scientific Workflow](resources/the-scientific-workflow.md)
 
