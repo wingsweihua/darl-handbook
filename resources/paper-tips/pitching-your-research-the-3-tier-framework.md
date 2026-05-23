@@ -40,4 +40,4 @@ To ensure these pitches become second nature, we will integrate the following ex
 
 * The Timer Challenge: During the first 10 minutes of our weekly group meetings, 1-2 students will be randomly selected to deliver their 1-minute or 5-minute pitch. A timer will be displayed, and you will be stopped exactly at the limit to build a strong sense of pacing.
 * Cross-Domain Peer Review: You will pair up with lab members working on entirely different sub-fields. If your partner cannot easily follow your 1-minute pitch, it means the "knowledge curse" is too strong, and the technical jargon needs to be simplified.
-* Documentation: Once your paper is accepted or uploaded to arXiv, all three pitch versions must be written down and archived in the shared project folder.
+* Documentation: Once your paper is accepted or uploaded to arXiv, all three pitch versions must be written down and archived in the shared project folder [here](https://docs.google.com/document/d/1fnPp_UYqbYVJ4DNEuRWjIS_JR1eS3Qs5LOeS-qTrtrM/edit?usp=sharing).
