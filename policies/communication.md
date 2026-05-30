@@ -2,6 +2,27 @@
 cover: >-
   https://t4.ftcdn.net/jpg/08/99/57/25/360_F_899572505_SqkNFLTZtYaVMUDqfmqEzhW540GKbWSZ.jpg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 📞 Communication
@@ -92,13 +113,11 @@ It is essential that every time one of us represents the lab externally, it is w
 
 ### Email
 
-In general, you will not need to send emails to lab members — Slack replaces email. However, when working with other members of the department who are not part of our workspace, or with outside collaborators who have not yet joined our workspace, you'll occasionally be copied on email threads. Please always use your Harvard email, if you have one.
+In general, you will not need to send emails to lab members — Slack replaces email. However, when working with other members of the department who are not part of our workspace, or with outside collaborators who have not yet joined our workspace, you'll occasionally be copied on email threads. Please always use your ASU email, if you have one.
 
 {% hint style="info" %}
 If we need to discuss the contents of an email thread, rather than doing it by email, forward the message to Slack so that we can open a thread about it there. You can do so by forwarding the message to **\[redacted]** or using one of the [Slack email add-ons.](https://slack.com/intl/en-nz/slack-tips/send-email-to-slack)
 {% endhint %}
-
-We also use email to communicate with families participating in research. All such emails should be sent from **\[redacted].** If you are ever unsure of what to write to a parent, **always** ask for help.
 
 ### Phone
 
@@ -134,6 +153,5 @@ When you share an article, please update **\[redacted]** with a URL to the relev
   * Posts about current research-related events
   * Articles: media coverage of lab related research, affiliate research, or topics we care about (infants, music, sound, etc.)
   * Updates about [https://labs.engineering.asu.edu/hw/](https://labs.engineering.asu.edu/hw/)
-  * Photos of babies that participated in studies and whose parents gave us permission to post on social media
+  * Photos of babies/K12 students that participated in studies and whose parents gave us permission to post on social media
   * Photos advertising new studies in the lab
-  * Photos of Theo, our Chief Pilot Subject (ask Sam)
