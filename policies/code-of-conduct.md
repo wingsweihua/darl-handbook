@@ -5,6 +5,27 @@ description: >-
 cover: >-
   https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
 coverY: 33
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🌴 Code of conduct
@@ -21,7 +42,7 @@ In the DaRL Lab, we prioritize the privacy and comfort of our lab members. To en
 
 To eliminate any uncertainty regarding awareness of photo-taking, direct consent must be obtained from lab members before any images are captured. Additionally, before sharing any photos on social media, consent must be sought again. This approach is implemented to show respect for individuals' privacy and recognize that people have diverse levels of comfort concerning being photographed, especially when those photos are shared on social media.
 
-It is important to emphasize that this policy also extends to our research participants. Unless a participant explicitly requests it, taking photos of them during an experiment is strictly prohibited, except for official video records, such as baby videos. However, if a parent specifically asks for a photo of themselves and/or their baby, we are more than happy to comply. In fact, we often use such photos, with parental permission, for recruiting participants on social media. The key principle here is that we must obtain explicit consent from everyone involved before proceeding with any photography activities.
+It is important to emphasize that this policy also extends to our research participants. Unless a participant explicitly requests it, taking photos of them during an experiment is strictly prohibited, except for official video records, such as student videos. However, if a parent specifically asks for a photo of themselves and/or their students, we are more than happy to comply. In fact, we often use such photos, with parental permission, for recruiting participants on social media. The key principle here is that we must obtain explicit consent from everyone involved before proceeding with any photography activities.
 
 ## Confidentiality
 
