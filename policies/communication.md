@@ -37,7 +37,7 @@ Our primary means of communication is Slack, but we also talk with the outside w
 
 ## Internal communication (Slack)
 
-Our Slack workspace is shared with the Evolutionary Psychology Lab, and also has many guest members, outside collaborators, etc. You will encounter users on Slack who you haven't met in person. If you don't recognize a name/username, it's safest to assume they may be an external collaborator — please be mindful when posting.
+Our Slack workspace is shared within the DaRL Lab, and also has many guest members, outside collaborators, etc. You will encounter users on Slack who you haven't met in person. If you don't recognize a name/username, it's safest to assume they may be an external collaborator — please be mindful when posting.
 
 You'll find that the vast majority of your work with us is coordinated through Slack, so it's important that everyone is on the same page about how we use it.
 
