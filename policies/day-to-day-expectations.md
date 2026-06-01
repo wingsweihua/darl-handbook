@@ -22,11 +22,11 @@ It's a great idea to take some time off now and then. We have a very flexible va
 
 ### Dress code
 
-You should wear whatever makes you comfortable in lab, but when families are coming into the lab, ensure that you wear child-appropriate clothing (e.g., no profanity on t-shirts, no overly casual or revealing clothes).
+You should wear whatever makes you comfortable in lab, but when visitors or guests (e.g., collaborators, prospective students, or department staff) are coming into the lab, dress professionally (e.g., no profanity on t-shirts, no overly casual or revealing clothes).
 
 ### Health
 
-Infants are a _vulnerable population_ so all lab members who will come in contact with them must follow two firm rules: 1. Get a flu shot, no matter what. If you do not want to get a flu shot, you **must** get permission from a lab manager to interact with infants. 2. If you are sick, **stay home!** This protects both the infants who come into our lab and your labmates from catching whatever you've got.
+Please look out for one another's health: if you are sick, **stay home!** Work remotely if you're able, and don't come into the lab until you're well. This protects your labmates and any visitors from catching whatever you've got.
 
 At present, nobody in the lab has any severe allergies. If you have one, please notify a lab manager, so that we can inform everyone in the lab, to ensure your safety.
 
@@ -46,7 +46,7 @@ We have a lot of fancy equipment and expensive stuff. If you're the last one in 
 
 As a member of the DaRL Lab, you are a representative of our organization. That means you should feel comfortable discussing your work in the lab, but please keep two general rules in mind:
 
-1. Whether you are a new research assistant or a senior graduate student, your actions reflect not only on yourself, but on the lab itself, your labmates and supervisors, the department, the university, and the field writ large. This is true both when you interact with research participants (who are doing us a favor by participating in our research) and scientific colleagues (who are the people who review our papers and grants and are potential future advisors of yours!). As such, it is incumbent on all of us to interact with the outside world with professionalism, enthusiasm, and respect. **This is especially the case when posting publicly on social media, whether from your personal account or from a lab account**.
+1. Whether you are a new research assistant or a senior graduate student, your actions reflect not only on yourself, but on the lab itself, your labmates and supervisors, the department, the university, and the field writ large. This is true both when you interact with collaborators and prospective students and with scientific colleagues (who are the people who review our papers and grants and are potential future advisors of yours!). As such, it is incumbent on all of us to interact with the outside world with professionalism, enthusiasm, and respect. **This is especially the case when posting publicly on social media, whether from your personal account or from a lab account**.
 2. Some research findings are proprietary and should not be discussed publicly, and in some cases (like when a research paper is about to be published) findings can be strictly embargoed, such that you shouldn't discuss them with _anybody_ outside the lab. If you're ever unsure of whether or not it is OK to share information about a finding — especially on social media — **ask before sharing!**
 
 These rules apply to all external communication (social media, phone, etc); see more details on the [Communication](/broken/pages/-LpeRFG1tG7GcmV71bIm) page.

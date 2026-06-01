@@ -50,7 +50,7 @@ All lab members are required to **download the Slack app** to their computers an
 Every project gets its own channel (like `#libsignal`). Some projects are large enough to require multiple channels (like `#libsignal` and its many channel-children, like `#libsignal-develop` and `#libsignal-teaching`).
 
 In addition to project-specific channels, we have a variety of channels for organizational purposes.\
-`#general` or #random is where we share various thoughts and ideas across the DaRL Lab and EPL, along with interesting new papers, and lab-wide announcements (including lab meeting info).\
+`#general` or #random is where we share various thoughts and ideas across the DaRL Lab, along with interesting new papers, and lab-wide announcements (including lab meeting info).\
 `#sharing` is a private channel where we share posts that are specific to DaRL Lab members (and not necessarily relevant to other members of the workspace).<br>
 
 You'll get the hang of what goes where, and if you post something in a funny place, typically an admin will remove it or ask you to repost it elsewhere.
@@ -107,7 +107,7 @@ You can set up two-factor authentication on your Slack account to reduce the lik
 
 ## External communication
 
-Communicating to people outside the lab is **extremely important**: your actions reflect not only on yourself, but on the lab, the PI, the department, and the university. This is true both for participants (who volunteer for our studies) and scientific colleagues (whose opinions have a direct impact on our success and opportunity — they are the ones reviewing our grants and papers).
+Communicating to people outside the lab is **extremely important**: your actions reflect not only on yourself, but on the lab, the PI, the department, and the university. This is true for scientific colleagues (whose opinions have a direct impact on our success and opportunity — they are the ones reviewing our grants and papers) as well as for collaborators and prospective students.
 
 It is essential that every time one of us represents the lab externally, it is with professionalism and courtesy.
 
@@ -121,9 +121,9 @@ If we need to discuss the contents of an email thread, rather than doing it by e
 
 ### Phone
 
-If the phone rings while you're in the lab, answer it. Identify the lab and your name. "Thanks for calling the DaRL Lab, this is \[your name], how may I help you?" is a good start. Remember that parents of infants are often in noisy environments, so it's a good idea to speak slowly and clearly.
+If the phone rings while you're in the lab, answer it. Identify the lab and your name. "Thanks for calling the DaRL Lab, this is \[your name], how may I help you?" is a good start. Callers may be collaborators, prospective students, or department staff, so it's a good idea to speak slowly and clearly.
 
-Check voicemail daily to make sure that any calls from research participants are answered promptly. Voicemail messages should always be returned within one business day.
+Check voicemail daily to make sure that any calls from collaborators or external contacts are answered promptly. Voicemail messages should always be returned within one business day.
 
 ### Social media
 
@@ -139,7 +139,7 @@ When you share an article, please update **\[redacted]** with a URL to the relev
 
 #### Rules for what to post
 
-* **Never** post a picture of a participant without the explicit permission of the participant, or if the participant is a minor, teenager, or needs guardian.&#x20;
+* **Never** post a picture of a lab member, visitor, or collaborator without their explicit permission.&#x20;
 * Keep it positive and do not post any profanity!
 * Consider your audience & platform before posting, and if appropriate, post the same item across multiple platforms
 
@@ -148,10 +148,10 @@ When you share an article, please update **\[redacted]** with a URL to the relev
 * Photos, videos, media are usually better than plain text
 * Hashtags, links, and emoji are great additions too
 * Common topics:
-  * Introductions for new lab members (sometimes these are baby pics)
+  * Introductions for new lab members
   * Accomplishments/events (e.g. if the DaRL lab is giving a talk/poster at a conference, a paper comes out, etc.)
   * Posts about current research-related events
-  * Articles: media coverage of lab related research, affiliate research, or topics we care about (infants, music, sound, etc.)
+  * Articles: media coverage of lab related research, affiliate research, or topics we care about (reinforcement learning, LLMs, data mining, etc.)
   * Updates about [https://labs.engineering.asu.edu/hw/](https://labs.engineering.asu.edu/hw/)
-  * Photos of babies/K12 students that participated in studies and whose parents gave us permission to post on social media
-  * Photos advertising new studies in the lab
+  * Figures, demos, or visualizations from our research (with co-author permission)
+  * Posts advertising new papers, preprints, or open-source releases

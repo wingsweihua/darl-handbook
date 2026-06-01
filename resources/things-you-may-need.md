@@ -28,7 +28,7 @@ EPL printer (black & white or color; bigger jobs): **`[redacted]`**
 
 ### **Locations and physical resources**
 
-Map to main lab space: **`[redacted]`** Map to infant testing space: **`[redacted]`**
+Map to main lab space: **`[redacted]`**
 
 
 
@@ -50,7 +50,7 @@ SCAI website: [https://scai.engineering.asu.edu/](https://scai.engineering.asu.e
 
 ## Software
 
-Here's how to get copies of most pieces of software that we use regularly. If a link is wrong here, please post on #musiclab to let us know and we'll update it. We don't check this list frequently.
+Here's how to get copies of most pieces of software that we use regularly. If a link is wrong here, please post on #general to let us know and we'll update it. We don't check this list frequently.
 
 * **Slack** _\*\*_(signup or download)
 * Office 365

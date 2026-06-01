@@ -38,19 +38,19 @@ The DaRL Lab maintains a harassment-free and discrimination-free environment. Al
 
 ### Photos & videos
 
-In the DaRL Lab, we prioritize the privacy and comfort of our lab members. To ensure this, we strictly adhere to a policy of obtaining explicit knowledge and consent from lab members before taking any photos or video recordings of them. This is particularly crucial in situations where a lab member might not be aware of the photo being taken, making it essential to seek their consent beforehand (e.g., capturing a still from a video during an experiment).
+In the DaRL Lab, we prioritize the privacy and comfort of our lab members. To ensure this, we strictly adhere to a policy of obtaining explicit knowledge and consent from lab members before taking any photos or video recordings of them. This is particularly crucial in situations where a lab member might not be aware of the photo being taken, making it essential to seek their consent beforehand (e.g., capturing a still from a recording of a talk, demo, or lab event).
 
 To eliminate any uncertainty regarding awareness of photo-taking, direct consent must be obtained from lab members before any images are captured. Additionally, before sharing any photos on social media, consent must be sought again. This approach is implemented to show respect for individuals' privacy and recognize that people have diverse levels of comfort concerning being photographed, especially when those photos are shared on social media.
 
-It is important to emphasize that this policy also extends to our research participants. Unless a participant explicitly requests it, taking photos of them during an experiment is strictly prohibited, except for official video records, such as student videos. However, if a parent specifically asks for a photo of themselves and/or their students, we are more than happy to comply. In fact, we often use such photos, with parental permission, for recruiting participants on social media. The key principle here is that we must obtain explicit consent from everyone involved before proceeding with any photography activities.
+It is important to emphasize that this policy also extends to lab visitors, collaborators, and anyone who appears in our demos, screen recordings, or talk recordings. Unless they explicitly agree, capturing or sharing their image is strictly prohibited. The key principle here is that we must obtain explicit consent from everyone involved before proceeding with any photography or recording activities.
 
 ## Confidentiality
 
-All research data and materials are considered confidential until they are publicly shared, and it is imperative to treat them as such. Our IRB conducts thorough reviews of our research practices to ensure that only authorized personnel have access to the data. It is your responsibility to safeguard confidential materials and prevent any unauthorized access. This entails the following measures:
+All research data and materials are considered confidential until they are publicly shared, and it is imperative to treat them as such. We follow ASU's data governance practices, and for any project that does involve human subjects (e.g., a user study), the relevant IRB protocols, to ensure that only authorized personnel have access to the data. It is your responsibility to safeguard confidential materials and prevent any unauthorized access. This entails the following measures:
 
 * Never share your lab resource credentials with individuals outside the lab.
 * Avoid writing down passwords to maintain the confidentiality of our data and materials.
-* Refrain from discussing or sharing participant information with anyone outside the lab, including identifiable details like names, contact information, performance in studies, and correspondence with parents.
+* Refrain from discussing or sharing confidential project information with anyone outside the lab, including unpublished results, datasets, model checkpoints, and private correspondence with collaborators.
 * Do not store confidential materials on personal devices for more than a temporary period.
 * When using data outside the lab, delete all local copies after use, and ensure that no one else can view or access the data, including videos.
 * Never allow unapproved individuals to enter the lab unaccompanied, and if such a situation arises, ensure they cannot access any confidential information.
@@ -101,7 +101,7 @@ Our lab follows a flexible approach to sharing data, materials, and code, recogn
 * In most cases, Hua's involvement in research conducted using lab resources (e.g., lab computers or software) makes his an author of resulting manuscripts. However, there are exceptions when students collaborate with other researchers, which is highly encouraged! In such cases, the following points should be considered:
   * (a) Discuss the authorship arrangement with Hua ahead of time if collaborating with other researchers.&#x20;
   * (b) If Hua is not a co-author on a particular project, do not assume that he will provide guidance or feedback for that project.&#x20;
-  * (c) Hua will not serve as the IRB supervisor for projects in which he is not directly involved.
+  * (c) Hua will not serve as the faculty supervisor for projects in which he is not directly involved.
 * Undergraduate and Master Interns are acknowledged by name for their valuable contributions to projects, such as testing studies and collecting data. If an intern's involvement goes beyond typical work and they make significant intellectual contributions, they may be considered as co-authors. We value everyone's contributions and encourage open discussions about authorship to ensure proper recognition and credit. Keep up the great work!
 
 #### Notifying co-authors of research products

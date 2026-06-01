@@ -16,7 +16,7 @@ As part of the onboarding process at The DaRL Lab, a lab manager will share a go
 
 Our data, stim, videos, papers, and so on are our most valuable products! As such, we have a carefully designed system for ensuring that we never lose anything, while also making sure that each file we use is version-controlled and redundantly backed up.
 
-All Music Lab files are stored in at least one of two places: on GitHub or Google Drive. These three locations are for three separate things, as follows:
+All DaRL Lab files are stored in at least one of two places: on GitHub or Google Drive. These two locations are for separate things, as follows:
 
 Most of your day-to-day work will involve files on GitHub and Google Drive.
 
@@ -30,7 +30,7 @@ Every project has its own GitHub repository. This is where we store all of our f
 
 Project repos have a standardized directory structure, to keep things simple across scripts for different projects:
 
-1. `admin` contains any administrative documents, like IRB-related material, flyers for recruitment, study protocols, etc.
+1. `admin` contains any administrative documents, like project proposals, meeting notes, experiment configs, etc.
 2. `data` contains raw data.
 3. `analysis` contains analysis scripts.
 4. `results` contains processed data, that is, the results of analysis scripts.
@@ -53,7 +53,7 @@ GitHub repositories that have large files (e.g., datasets over 100MB) require yo
 Google Documents have built-in version control, so they don't need to be stored in a git repo. Instead, **we store all Google Documents in our shared Google Drive,** [**`DaRL Shared Folder`**](https://drive.google.com/drive/folders/15-cPhFvIWpCLsQhx-jquMu6orX0i-W5f?usp=drive_link). This can get a bit confusing because often Google Documents are created on the fly by different people.
 
 {% hint style="danger" %}
-To ensure that we never lose access to a document we need, when you create a Google Doc (or sheet, form, etc), immediately move it to the `musiclabgdrive` Shared Google Drive. This will automatically enable access for everybody in the lab.
+To ensure that we never lose access to a document we need, when you create a Google Doc (or sheet, form, etc), immediately move it to the `DaRL Shared Folder` Shared Google Drive. This will automatically enable access for everybody in the lab.
 {% endhint %}
 
 If you see a lab Google Document that is **not** in DaRL Shared Folder, let a PhD student know so that we can fix it!
@@ -68,12 +68,12 @@ In a scientific organization, we manage our files so that any new person on a pr
 
 Here are some simple principles for organizing files that you should \*always\* follow:
 
-1. For projects that include human subjects run in lab, **use a** **single set of subject numbers** (usually `1000` thru `9999`), where the subject number is informative. For example, in IPL, subjects in the `1000`-`1999` range were pilot subjects, while subjects in the `8000` -`8999` range were in the final cohort.
-2. Always **choose filenames that are intelligible** regardless of where they are stored (e.g., `/IPL/datadrop/IPL8006_codingBlink.csv`, not `/IPL/datadrop/coding/blink/8006.csv` — get the difference?)
+1. For projects with many experiment runs, **use a** **single consistent run-numbering scheme** (e.g., `1000` thru `9999`), where the run number is informative. For example, runs in the `1000`-`1999` range might be pilot/debug runs, while runs in the `8000` -`8999` range are the final reported experiments.
+2. Always **choose filenames that are intelligible** regardless of where they are stored (e.g., `/cityflow/results/cityflow8006_dqn_reward.csv`, not `/cityflow/results/dqn/reward/8006.csv` — get the difference?)
 3. Whenever possible, **don't create sub-subdirectories**. It's hard enough to remember what belongs in what folder for a single project, let alone multiple projects.
-4. For in-lab human subjects projects, always **use an automatically-generated studylog**. We usually do this with a Google Form, which generates a log of all subjects run and organizes their details in a machine-readable csv. That file then becomes the starting point for all analyses. **All notes you take on participants should be part of the studylog**; otherwise, we risk losing them or doing analysis without knowing that they exist.
+4. For projects with many experiments, always **use an automatically-generated experiment log**. We usually do this with a logging tool (e.g., Weights & Biases, TensorBoard, or a Google Sheet/CSV) that records every run along with its hyperparameters, seeds, and metrics in a machine-readable format. That file then becomes the starting point for all analyses. **All notes you take on a run should be part of the experiment log**; otherwise, we risk losing them or doing analysis without knowing that they exist.
 
-Remember, these apply to all files, whether they're stored on GitHub, `musiclabnas`, or `musiclabgdrive`.
+Remember, these apply to all files, whether they're stored on GitHub or the DaRL Shared Folder.
 
 ## Analysis and writing
 
@@ -136,7 +136,7 @@ If you're working on a Markdown manuscript, then we generally won't change the f
 ~~Instead, we use Trello to keep track of the status of projects and shepherd them from the ideas stage thru experimental design, data collection, analysis, write-up, and publication. To facilitate discussion of events recorded on Trello (e.g., "a new checklist item was created for TML"), some Slack channels have Trello bots that automatically post updates, which can then be replied to in threads.~~
 
 {% hint style="info" %}
-~~The most important board on Trello is **darllab-status**. This is the overview board for all Music Lab projects: each card on the board represents a project, and has a master checklist of the big things happening next (like "draft the methods section of the paper!"). **darllab-status** is also the home of the ever-important **Who's Doing What** list (which hosts to-do lists for all lab members).~~
+~~The most important board on Trello is **darllab-status**. This is the overview board for all DaRL Lab projects: each card on the board represents a project, and has a master checklist of the big things happening next (like "draft the methods section of the paper!"). **darllab-status** is also the home of the ever-important **Who's Doing What** list (which hosts to-do lists for all lab members).~~
 {% endhint %}
 
 ~~In general, there is no standardized way that we use Trello across different projects. This is intentional: different projects have vastly different project management needs.~~&#x20;
