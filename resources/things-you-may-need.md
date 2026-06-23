@@ -30,8 +30,6 @@ EPL printer (black & white or color; bigger jobs): **`[redacted]`**
 
 Map to main lab space: **`[redacted]`**
 
-
-
 ### **Phone numbers**
 
 **`[redacted]`**
@@ -56,6 +54,7 @@ Here's how to get copies of most pieces of software that we use regularly. If a 
 * Office 365
 * Powtoon
 * Git
+* Overleaf (lab paper [latex template](https://www.overleaf.com/2361599584tdkztmpmvfkv#23da8b))
 
 ## **Physical resources**
 
